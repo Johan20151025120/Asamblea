@@ -94,7 +94,7 @@ app.get('/api/config', (req, res) => {
   }
 
   res.json({
-    nombreCopropiedad: 'Conjunto Residencial Sopó',
+    nombreCopropiedad: 'Conjunto Residencial Sopó 2',
     totalApartamentos: apartments.length,
     towers
   });

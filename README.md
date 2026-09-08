@@ -1,5 +1,5 @@
 # Sistema de Votación por Coeficiente en Tiempo Real
-### Conjunto Residencial Sopó &bull; Ley 675 de 2001
+### Conjunto Residencial La Reserva de Sopó 2 &bull; Ley 675 de 2001
 
 Este sistema fue desarrollado a la medida para gestionar votaciones electrónicas en tiempo real durante asambleas de copropietarios, calculando de forma instantánea el **voto ponderado por coeficiente de copropiedad** y el **voto nominal**, garantizando la inmutabilidad y la prevención estricta de doble voto.
 

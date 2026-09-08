@@ -94,7 +94,7 @@ app.get('/api/config', (req, res) => {
   }
 
   res.json({
-    nombreCopropiedad: 'Conjunto Residencial Sopó 2',
+    nombreCopropiedad: 'Conjunto Residencial La Reserva de Sopó 2',
     totalApartamentos: apartments.length,
     towers
   });
@@ -324,7 +324,7 @@ app.post('/api/admin/attendance', requireAdmin, (req, res) => {
 app.get('/api/admin/export', requireAdmin, (req, res) => {
   try {
     const buffer = generarReporteExcel(store);
-    const filename = `Reporte_Asamblea_Sopo_${new Date().toISOString().slice(0, 10)}.xlsx`;
+    const filename = `Reporte_Asamblea_La_Reserva_Sopo_2_${new Date().toISOString().slice(0, 10)}.xlsx`;
 
     res.setHeader('Content-Type', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet');
     res.setHeader('Content-Disposition', `attachment; filename="${filename}"`);
@@ -368,7 +368,7 @@ io.on('connection', (socket) => {
 
 server.listen(PORT, () => {
   console.log(`=======================================================`);
-  console.log(` SISTEMA DE VOTACIÓN ASAMBLEA SOPÓ INICIADO (ALTA CONCURRENCIA)`);
+  console.log(` SISTEMA DE VOTACIÓN LA RESERVA DE SOPÓ 2 (ALTA CONCURRENCIA)`);
   console.log(` - Acceso Residentes: http://localhost:${PORT}`);
   console.log(` - Panel Administrador: http://localhost:${PORT}/admin.html`);
   console.log(` - Pantalla Proyección: http://localhost:${PORT}/proyeccion.html`);

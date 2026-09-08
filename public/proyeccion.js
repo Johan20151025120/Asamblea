@@ -1,10 +1,6 @@
 // Projection / Screen Share View Logic
 let socket = null;
 
-const projQuorumPct = document.getElementById('proj-quorum-pct');
-const projQuorumAptos = document.getElementById('proj-quorum-aptos');
-const projQuorumStatus = document.getElementById('proj-quorum-status');
-
 const projViewStandby = document.getElementById('proj-view-standby');
 const projViewActive = document.getElementById('proj-view-active');
 
@@ -43,10 +39,6 @@ function initSocket() {
     renderStats(stats);
   });
 
-  socket.on('quorum:updated', (quorum) => {
-    renderQuorum(quorum);
-  });
-
   socket.on('question:opened', async () => {
     await fetchLiveProjection();
   });
@@ -60,7 +52,6 @@ async function fetchLiveProjection() {
   try {
     const res = await fetch('/api/projection/live');
     const data = await res.json();
-    renderQuorum(data.quorum);
 
     if (data.stats) {
       renderStats(data.stats);
@@ -70,21 +61,6 @@ async function fetchLiveProjection() {
     }
   } catch (err) {
     console.error('Error fetching projection data:', err);
-  }
-}
-
-function renderQuorum(quorum) {
-  if (!quorum) return;
-
-  projQuorumPct.textContent = `${quorum.quorumPorcentaje.toFixed(2)}%`;
-  projQuorumAptos.textContent = `${quorum.apartamentosPresentes} / ${quorum.totalApartamentos}`;
-
-  if (quorum.hayQuorumDeliberatorio) {
-    projQuorumStatus.textContent = 'QUÓRUM VÁLIDO';
-    projQuorumStatus.className = 'px-3 py-1 rounded-full text-xs font-black bg-emerald-500/20 text-emerald-300 border border-emerald-500/30';
-  } else {
-    projQuorumStatus.textContent = 'QUÓRUM INSUFICIENTE';
-    projQuorumStatus.className = 'px-3 py-1 rounded-full text-xs font-black bg-amber-500/20 text-amber-300 border border-amber-500/30';
   }
 }
 

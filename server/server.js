@@ -316,7 +316,6 @@ app.post('/api/admin/attendance', requireAdmin, (req, res) => {
 
   const quorum = store.getQuorumInfo();
   io.to('admin').emit('quorum:updated', quorum);
-  io.to('proyeccion').emit('quorum:updated', quorum);
 
   res.json({ success: true, quorum });
 });
@@ -336,10 +335,9 @@ app.get('/api/admin/export', requireAdmin, (req, res) => {
 });
 
 app.get('/api/projection/live', (req, res) => {
-  const quorum = store.getQuorumInfo();
   const activeQuestion = store.getPreguntaActiva();
   const stats = activeQuestion ? store.calcularEstadisticas(activeQuestion.id) : null;
-  res.json({ quorum, activeQuestion, stats });
+  res.json({ activeQuestion, stats });
 });
 
 // ----------------------------------------------------

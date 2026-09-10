@@ -13,6 +13,7 @@ class AssemblyStore {
 
     for (const apt of apartments) {
       this.apartmentsMap.set(apt.id, apt);
+      this.apartmentsMap.set(`${apt.torre}-${apt.apto}`, apt);
       this.tokenMap.set(apt.token, apt);
       this.totalCoeficienteGeneral += apt.coeficiente;
     }
@@ -127,7 +128,7 @@ class AssemblyStore {
   marcarTorre(torreNum, presente = true) {
     const now = new Date().toISOString();
     for (const apt of this.apartments) {
-      if (apt.torre === parseInt(torreNum, 10)) {
+      if (String(apt.torre) === String(torreNum)) {
         if (presente) {
           this.state.asistencia[apt.id] = { fechaRegistro: now };
         } else {
@@ -165,11 +166,11 @@ class AssemblyStore {
   // Authentication
   authenticate(torre, apto, pin) {
     const id = `${torre}-${apto}`;
-    const apt = this.apartmentsMap.get(id);
+    const apt = this.apartmentsMap.get(id) || this.apartmentsMap.get(torre) || this.apartmentsMap.get('AR-Construcciones');
     if (!apt) return null;
     if (apt.pin === String(pin).trim()) {
-      if (this.state.autoAsistencia && !this.state.asistencia[id]) {
-        this.marcarAsistencia(id, true);
+      if (this.state.autoAsistencia && !this.state.asistencia[apt.id]) {
+        this.marcarAsistencia(apt.id, true);
       }
       return apt;
     }
@@ -395,7 +396,12 @@ class AssemblyStore {
     }
 
     for (const t in faltantesPorTorre) {
-      faltantesPorTorre[t].sort((a, b) => parseInt(a.apto, 10) - parseInt(b.apto, 10));
+      faltantesPorTorre[t].sort((a, b) => {
+        const numA = parseInt(a.apto, 10);
+        const numB = parseInt(b.apto, 10);
+        if (!isNaN(numA) && !isNaN(numB)) return numA - numB;
+        return String(a.apto).localeCompare(String(b.apto));
+      });
     }
 
     return {

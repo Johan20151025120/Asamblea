@@ -296,16 +296,23 @@ function renderLiveMonitor(stats) {
   radarMissingCount.textContent = stats.faltantes.total;
   radarTowersGrid.innerHTML = '';
 
-  const towers = Object.keys(stats.faltantes.porTorre).sort((a, b) => Number(a) - Number(b));
+  const towers = Object.keys(stats.faltantes.porTorre).sort((a, b) => {
+    const numA = parseInt(a);
+    const numB = parseInt(b);
+    if (!isNaN(numA) && !isNaN(numB)) return numA - numB;
+    return String(a).localeCompare(String(b));
+  });
   if (towers.length === 0) {
     radarTowersGrid.innerHTML = '<div class="col-span-full text-center py-2 text-emerald-700 font-bold">¡Todos los apartamentos han votado!</div>';
   } else {
     for (const t of towers) {
       const aptos = stats.faltantes.porTorre[t];
+      const isNum = !isNaN(t);
+      const title = isNum ? `Torre ${t} (${aptos.length})` : `${t} (${aptos.length})`;
       const box = document.createElement('div');
       box.className = 'bg-white border border-amber-300/80 rounded-lg p-2';
       box.innerHTML = `
-        <span class="font-bold text-slate-900 block border-b border-amber-100 pb-0.5 mb-1">Torre ${t} (${aptos.length})</span>
+        <span class="font-bold text-slate-900 block border-b border-amber-100 pb-0.5 mb-1">${title}</span>
         <span class="text-slate-600 text-[11px] leading-tight block">${aptos.map(a => a.apto).join(', ')}</span>
       `;
       radarTowersGrid.appendChild(box);
@@ -317,7 +324,12 @@ function renderLiveMonitor(stats) {
 btnCopyMissingZoom.addEventListener('click', () => {
   if (!activeStatsData || !activeStatsData.faltantes) return;
   const faltantes = activeStatsData.faltantes.porTorre;
-  const towers = Object.keys(faltantes).sort((a, b) => Number(a) - Number(b));
+  const towers = Object.keys(faltantes).sort((a, b) => {
+    const numA = parseInt(a);
+    const numB = parseInt(b);
+    if (!isNaN(numA) && !isNaN(numB)) return numA - numB;
+    return String(a).localeCompare(String(b));
+  });
 
   if (towers.length === 0) {
     alert('¡No faltan apartamentos por votar!');
@@ -327,7 +339,8 @@ btnCopyMissingZoom.addEventListener('click', () => {
   let text = `📢 RECORDATORIO DE VOTACIÓN (Faltan ${activeStatsData.faltantes.total} apartamentos por votar):\n`;
   for (const t of towers) {
     const aptos = faltantes[t].map(a => a.apto).join(', ');
-    text += `Torre ${t}: [${aptos}]\n`;
+    const label = !isNaN(t) ? `Torre ${t}` : t;
+    text += `${label}: [${aptos}]\n`;
   }
   text += `👉 Por favor ingresen y confirmen su voto.`;
 
@@ -552,20 +565,29 @@ btnCloseModalAsistencia.addEventListener('click', () => {
 
 function renderAttendanceModal() {
   modalAsistenciaContainer.innerHTML = '';
-  const torreNums = Object.keys(towersData).map(Number).sort((a, b) => a - b);
+  const keys = Object.keys(towersData);
+  const numericTowers = keys.filter(k => !isNaN(k)).map(Number).sort((a, b) => a - b);
+  const nonNumericTowers = keys.filter(k => isNaN(k)).sort();
+  const allTowers = [...numericTowers, ...nonNumericTowers];
 
-  torreNums.forEach(tNum => {
-    const aptos = towersData[tNum];
+  allTowers.forEach(tKey => {
+    const aptos = towersData[tKey];
+    if (!aptos) return;
     const towerBox = document.createElement('div');
     towerBox.className = 'border border-slate-200 rounded-xl p-3 bg-slate-50/50';
 
     let allTowerPresent = aptos.every(a => currentAsistenciaMap[a.id]);
+    const isNum = !isNaN(tKey);
+    const towerTitle = isNum ? `Torre ${tKey} (${aptos.length} aptos)` : `${tKey} (${aptos.length} unidad)`;
+    const btnText = allTowerPresent
+      ? (isNum ? 'Desmarcar Torre' : 'Desmarcar')
+      : (isNum ? 'Marcar Toda la Torre' : 'Marcar Presente');
 
     towerBox.innerHTML = `
       <div class="flex items-center justify-between border-b border-slate-200 pb-2 mb-2">
-        <span class="font-bold text-xs text-slate-800">Torre ${tNum} (${aptos.length} aptos)</span>
-        <button class="btn-toggle-tower text-[11px] font-bold text-indigo-600 hover:text-indigo-800" data-torre="${tNum}">
-          ${allTowerPresent ? 'Desmarcar Torre' : 'Marcar Toda la Torre'}
+        <span class="font-bold text-xs text-slate-800">${towerTitle}</span>
+        <button class="btn-toggle-tower text-[11px] font-bold text-indigo-600 hover:text-indigo-800" data-torre="${tKey}">
+          ${btnText}
         </button>
       </div>
       <div class="grid grid-cols-4 sm:grid-cols-6 gap-1.5">
@@ -584,7 +606,7 @@ function renderAttendanceModal() {
       await fetch('/api/admin/attendance', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'x-admin-key': adminKey },
-        body: JSON.stringify({ torre: tNum, presente: willBePresent })
+        body: JSON.stringify({ torre: tKey, presente: willBePresent })
       });
       await fetchOverview();
       renderAttendanceModal();

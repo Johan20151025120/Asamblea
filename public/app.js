@@ -72,11 +72,20 @@ async function loadTowersConfig() {
     towersData = data.towers || {};
 
     selectTorre.innerHTML = '<option value="">Selecciona tu Torre...</option>';
-    const torreNums = Object.keys(towersData).map(Number).sort((a, b) => a - b);
-    for (const num of torreNums) {
+    const keys = Object.keys(towersData);
+    const numericKeys = keys.filter(k => !isNaN(k)).map(Number).sort((a, b) => a - b);
+    const nonNumericKeys = keys.filter(k => isNaN(k)).sort();
+
+    for (const num of numericKeys) {
       const opt = document.createElement('option');
       opt.value = num;
       opt.textContent = `Torre ${num}`;
+      selectTorre.appendChild(opt);
+    }
+    for (const key of nonNumericKeys) {
+      const opt = document.createElement('option');
+      opt.value = key;
+      opt.textContent = key;
       selectTorre.appendChild(opt);
     }
   } catch (err) {
@@ -93,12 +102,19 @@ selectTorre.addEventListener('change', () => {
     selectApto.classList.remove('bg-slate-100');
     selectApto.classList.add('bg-slate-50');
 
-    // Sort aptos numerically
-    const aptos = [...towersData[torreVal]].sort((a, b) => parseInt(a.apto) - parseInt(b.apto));
+    // Sort aptos: numeric first then non-numeric
+    const aptos = [...towersData[torreVal]].sort((a, b) => {
+      const numA = parseInt(a.apto);
+      const numB = parseInt(b.apto);
+      if (!isNaN(numA) && !isNaN(numB)) return numA - numB;
+      return String(a.apto).localeCompare(String(b.apto));
+    });
+
     for (const apt of aptos) {
       const opt = document.createElement('option');
       opt.value = apt.apto;
-      opt.textContent = `Apto ${apt.apto}`;
+      const isNum = !isNaN(apt.apto);
+      opt.textContent = isNum ? `Apto ${apt.apto}` : apt.apto;
       selectApto.appendChild(opt);
     }
   } else {

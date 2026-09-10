@@ -7,8 +7,8 @@ console.log('--- INICIANDO PRUEBAS DEL SISTEMA DE VOTACIÓN ---');
 
 // 1. Validar carga de apartamentos
 const apartments = loadAndProcessApartments();
-assert.strictEqual(apartments.length, 468, 'Debe haber exactamente 468 apartamentos');
-console.log('✔ Carga de apartamentos validada: 468 apartamentos encontrados.');
+assert.strictEqual(apartments.length, 440, 'Debe haber exactamente 440 unidades (439 aptos + AR Construcciones)');
+console.log('✔ Carga de apartamentos validada: 440 unidades encontradas.');
 
 // 2. Validar suma de coeficientes
 const store = new AssemblyStore(apartments);
@@ -23,6 +23,16 @@ assert.ok(authOk, 'Autenticación con PIN correcto debe ser exitosa');
 const authFail = store.authenticate(sampleApt.torre, sampleApt.apto, '99999');
 assert.strictEqual(authFail, null, 'Autenticación con PIN incorrecto debe fallar');
 console.log(`✔ Autenticación validada para ${sampleApt.nombreCompleto} con PIN ${sampleApt.pin}`);
+
+// 3.1 Validar usuario AR Construcciones
+const arApt = apartments.find(a => a.torre === 'AR Construcciones');
+assert.ok(arApt, 'Debe existir el usuario AR Construcciones');
+assert.strictEqual(arApt.apto, 'AR Construcciones');
+assert.strictEqual(arApt.coeficiente, 6.0836);
+assert.strictEqual(arApt.area, 1473.19);
+const arAuth = store.authenticate('AR Construcciones', 'AR Construcciones', arApt.pin);
+assert.ok(arAuth, 'Autenticación para AR Construcciones debe ser exitosa');
+console.log(`✔ Usuario AR Construcciones validado: Coef ${arApt.coeficiente}%, Área ${arApt.area}m², PIN ${arApt.pin}`);
 
 // 4. Validar Quórum
 store.marcarTodos(false);

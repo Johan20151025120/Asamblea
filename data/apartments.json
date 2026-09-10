@@ -1,7 +1,7 @@
 [
   {
     "id": "1-101",
-    "torre": 1,
+    "torre": "1",
     "apto": "101",
     "nombreCompleto": "Torre 1 - Apto 101",
     "area": 53.56,
@@ -11,7 +11,7 @@
   },
   {
     "id": "1-102",
-    "torre": 1,
+    "torre": "1",
     "apto": "102",
     "nombreCompleto": "Torre 1 - Apto 102",
     "area": 53.33,
@@ -21,7 +21,7 @@
   },
   {
     "id": "1-103",
-    "torre": 1,
+    "torre": "1",
     "apto": "103",
     "nombreCompleto": "Torre 1 - Apto 103",
     "area": 53.14,
@@ -31,7 +31,7 @@
   },
   {
     "id": "1-104",
-    "torre": 1,
+    "torre": "1",
     "apto": "104",
     "nombreCompleto": "Torre 1 - Apto 104",
     "area": 45.79,
@@ -41,7 +41,7 @@
   },
   {
     "id": "1-201",
-    "torre": 1,
+    "torre": "1",
     "apto": "201",
     "nombreCompleto": "Torre 1 - Apto 201",
     "area": 53.33,
@@ -51,7 +51,7 @@
   },
   {
     "id": "1-202",
-    "torre": 1,
+    "torre": "1",
     "apto": "202",
     "nombreCompleto": "Torre 1 - Apto 202",
     "area": 53.33,
@@ -61,7 +61,7 @@
   },
   {
     "id": "1-203",
-    "torre": 1,
+    "torre": "1",
     "apto": "203",
     "nombreCompleto": "Torre 1 - Apto 203",
     "area": 53.14,
@@ -71,7 +71,7 @@
   },
   {
     "id": "1-204",
-    "torre": 1,
+    "torre": "1",
     "apto": "204",
     "nombreCompleto": "Torre 1 - Apto 204",
     "area": 53.14,
@@ -81,7 +81,7 @@
   },
   {
     "id": "1-301",
-    "torre": 1,
+    "torre": "1",
     "apto": "301",
     "nombreCompleto": "Torre 1 - Apto 301",
     "area": 53.33,
@@ -91,7 +91,7 @@
   },
   {
     "id": "1-302",
-    "torre": 1,
+    "torre": "1",
     "apto": "302",
     "nombreCompleto": "Torre 1 - Apto 302",
     "area": 53.33,
@@ -101,7 +101,7 @@
   },
   {
     "id": "1-303",
-    "torre": 1,
+    "torre": "1",
     "apto": "303",
     "nombreCompleto": "Torre 1 - Apto 303",
     "area": 53.14,
@@ -111,7 +111,7 @@
   },
   {
     "id": "1-304",
-    "torre": 1,
+    "torre": "1",
     "apto": "304",
     "nombreCompleto": "Torre 1 - Apto 304",
     "area": 53.14,
@@ -121,7 +121,7 @@
   },
   {
     "id": "1-401",
-    "torre": 1,
+    "torre": "1",
     "apto": "401",
     "nombreCompleto": "Torre 1 - Apto 401",
     "area": 53.33,
@@ -131,7 +131,7 @@
   },
   {
     "id": "1-402",
-    "torre": 1,
+    "torre": "1",
     "apto": "402",
     "nombreCompleto": "Torre 1 - Apto 402",
     "area": 53.33,
@@ -141,7 +141,7 @@
   },
   {
     "id": "1-403",
-    "torre": 1,
+    "torre": "1",
     "apto": "403",
     "nombreCompleto": "Torre 1 - Apto 403",
     "area": 53.14,
@@ -151,7 +151,7 @@
   },
   {
     "id": "1-404",
-    "torre": 1,
+    "torre": "1",
     "apto": "404",
     "nombreCompleto": "Torre 1 - Apto 404",
     "area": 53.14,
@@ -161,7 +161,7 @@
   },
   {
     "id": "1-501",
-    "torre": 1,
+    "torre": "1",
     "apto": "501",
     "nombreCompleto": "Torre 1 - Apto 501",
     "area": 53.33,
@@ -171,7 +171,7 @@
   },
   {
     "id": "1-502",
-    "torre": 1,
+    "torre": "1",
     "apto": "502",
     "nombreCompleto": "Torre 1 - Apto 502",
     "area": 53.33,
@@ -181,7 +181,7 @@
   },
   {
     "id": "1-503",
-    "torre": 1,
+    "torre": "1",
     "apto": "503",
     "nombreCompleto": "Torre 1 - Apto 503",
     "area": 53.14,
@@ -191,7 +191,7 @@
   },
   {
     "id": "1-504",
-    "torre": 1,
+    "torre": "1",
     "apto": "504",
     "nombreCompleto": "Torre 1 - Apto 504",
     "area": 53.14,
@@ -201,7 +201,7 @@
   },
   {
     "id": "1-601",
-    "torre": 1,
+    "torre": "1",
     "apto": "601",
     "nombreCompleto": "Torre 1 - Apto 601",
     "area": 53.33,
@@ -211,7 +211,7 @@
   },
   {
     "id": "1-602",
-    "torre": 1,
+    "torre": "1",
     "apto": "602",
     "nombreCompleto": "Torre 1 - Apto 602",
     "area": 53.33,
@@ -221,7 +221,7 @@
   },
   {
     "id": "1-603",
-    "torre": 1,
+    "torre": "1",
     "apto": "603",
     "nombreCompleto": "Torre 1 - Apto 603",
     "area": 53.14,
@@ -231,7 +231,7 @@
   },
   {
     "id": "1-604",
-    "torre": 1,
+    "torre": "1",
     "apto": "604",
     "nombreCompleto": "Torre 1 - Apto 604",
     "area": 53.14,
@@ -241,7 +241,7 @@
   },
   {
     "id": "2-101",
-    "torre": 2,
+    "torre": "2",
     "apto": "101",
     "nombreCompleto": "Torre 2 - Apto 101",
     "area": 53.38,
@@ -251,7 +251,7 @@
   },
   {
     "id": "2-102",
-    "torre": 2,
+    "torre": "2",
     "apto": "102",
     "nombreCompleto": "Torre 2 - Apto 102",
     "area": 53.14,
@@ -261,7 +261,7 @@
   },
   {
     "id": "2-103",
-    "torre": 2,
+    "torre": "2",
     "apto": "103",
     "nombreCompleto": "Torre 2 - Apto 103",
     "area": 53.33,
@@ -271,7 +271,7 @@
   },
   {
     "id": "2-104",
-    "torre": 2,
+    "torre": "2",
     "apto": "104",
     "nombreCompleto": "Torre 2 - Apto 104",
     "area": 45.97,
@@ -281,7 +281,7 @@
   },
   {
     "id": "2-201",
-    "torre": 2,
+    "torre": "2",
     "apto": "201",
     "nombreCompleto": "Torre 2 - Apto 201",
     "area": 53.14,
@@ -291,7 +291,7 @@
   },
   {
     "id": "2-202",
-    "torre": 2,
+    "torre": "2",
     "apto": "202",
     "nombreCompleto": "Torre 2 - Apto 202",
     "area": 53.14,
@@ -301,7 +301,7 @@
   },
   {
     "id": "2-203",
-    "torre": 2,
+    "torre": "2",
     "apto": "203",
     "nombreCompleto": "Torre 2 - Apto 203",
     "area": 53.33,
@@ -311,7 +311,7 @@
   },
   {
     "id": "2-204",
-    "torre": 2,
+    "torre": "2",
     "apto": "204",
     "nombreCompleto": "Torre 2 - Apto 204",
     "area": 53.33,
@@ -321,7 +321,7 @@
   },
   {
     "id": "2-301",
-    "torre": 2,
+    "torre": "2",
     "apto": "301",
     "nombreCompleto": "Torre 2 - Apto 301",
     "area": 53.14,
@@ -331,7 +331,7 @@
   },
   {
     "id": "2-302",
-    "torre": 2,
+    "torre": "2",
     "apto": "302",
     "nombreCompleto": "Torre 2 - Apto 302",
     "area": 53.14,
@@ -341,7 +341,7 @@
   },
   {
     "id": "2-303",
-    "torre": 2,
+    "torre": "2",
     "apto": "303",
     "nombreCompleto": "Torre 2 - Apto 303",
     "area": 53.33,
@@ -351,7 +351,7 @@
   },
   {
     "id": "2-304",
-    "torre": 2,
+    "torre": "2",
     "apto": "304",
     "nombreCompleto": "Torre 2 - Apto 304",
     "area": 53.33,
@@ -360,18 +360,8 @@
     "token": "3b57f047f8"
   },
   {
-    "id": "2-401",
-    "torre": 2,
-    "apto": "401",
-    "nombreCompleto": "Torre 2 - Apto 401",
-    "area": 53.14,
-    "coeficiente": 0.2194,
-    "pin": "3208",
-    "token": "4fc1898120"
-  },
-  {
     "id": "2-402",
-    "torre": 2,
+    "torre": "2",
     "apto": "402",
     "nombreCompleto": "Torre 2 - Apto 402",
     "area": 53.14,
@@ -381,7 +371,7 @@
   },
   {
     "id": "2-403",
-    "torre": 2,
+    "torre": "2",
     "apto": "403",
     "nombreCompleto": "Torre 2 - Apto 403",
     "area": 53.33,
@@ -391,7 +381,7 @@
   },
   {
     "id": "2-404",
-    "torre": 2,
+    "torre": "2",
     "apto": "404",
     "nombreCompleto": "Torre 2 - Apto 404",
     "area": 53.33,
@@ -401,7 +391,7 @@
   },
   {
     "id": "2-501",
-    "torre": 2,
+    "torre": "2",
     "apto": "501",
     "nombreCompleto": "Torre 2 - Apto 501",
     "area": 53.14,
@@ -411,7 +401,7 @@
   },
   {
     "id": "2-502",
-    "torre": 2,
+    "torre": "2",
     "apto": "502",
     "nombreCompleto": "Torre 2 - Apto 502",
     "area": 53.14,
@@ -421,7 +411,7 @@
   },
   {
     "id": "2-503",
-    "torre": 2,
+    "torre": "2",
     "apto": "503",
     "nombreCompleto": "Torre 2 - Apto 503",
     "area": 53.33,
@@ -431,7 +421,7 @@
   },
   {
     "id": "2-504",
-    "torre": 2,
+    "torre": "2",
     "apto": "504",
     "nombreCompleto": "Torre 2 - Apto 504",
     "area": 53.33,
@@ -441,7 +431,7 @@
   },
   {
     "id": "2-601",
-    "torre": 2,
+    "torre": "2",
     "apto": "601",
     "nombreCompleto": "Torre 2 - Apto 601",
     "area": 53.14,
@@ -451,7 +441,7 @@
   },
   {
     "id": "2-602",
-    "torre": 2,
+    "torre": "2",
     "apto": "602",
     "nombreCompleto": "Torre 2 - Apto 602",
     "area": 53.14,
@@ -461,7 +451,7 @@
   },
   {
     "id": "2-603",
-    "torre": 2,
+    "torre": "2",
     "apto": "603",
     "nombreCompleto": "Torre 2 - Apto 603",
     "area": 53.33,
@@ -471,7 +461,7 @@
   },
   {
     "id": "2-604",
-    "torre": 2,
+    "torre": "2",
     "apto": "604",
     "nombreCompleto": "Torre 2 - Apto 604",
     "area": 53.33,
@@ -481,7 +471,7 @@
   },
   {
     "id": "3-101",
-    "torre": 3,
+    "torre": "3",
     "apto": "101",
     "nombreCompleto": "Torre 3 - Apto 101",
     "area": 53.56,
@@ -491,7 +481,7 @@
   },
   {
     "id": "3-102",
-    "torre": 3,
+    "torre": "3",
     "apto": "102",
     "nombreCompleto": "Torre 3 - Apto 102",
     "area": 53.33,
@@ -501,7 +491,7 @@
   },
   {
     "id": "3-103",
-    "torre": 3,
+    "torre": "3",
     "apto": "103",
     "nombreCompleto": "Torre 3 - Apto 103",
     "area": 53.14,
@@ -511,7 +501,7 @@
   },
   {
     "id": "3-104",
-    "torre": 3,
+    "torre": "3",
     "apto": "104",
     "nombreCompleto": "Torre 3 - Apto 104",
     "area": 45.79,
@@ -521,7 +511,7 @@
   },
   {
     "id": "3-201",
-    "torre": 3,
+    "torre": "3",
     "apto": "201",
     "nombreCompleto": "Torre 3 - Apto 201",
     "area": 53.33,
@@ -531,7 +521,7 @@
   },
   {
     "id": "3-202",
-    "torre": 3,
+    "torre": "3",
     "apto": "202",
     "nombreCompleto": "Torre 3 - Apto 202",
     "area": 53.33,
@@ -541,7 +531,7 @@
   },
   {
     "id": "3-203",
-    "torre": 3,
+    "torre": "3",
     "apto": "203",
     "nombreCompleto": "Torre 3 - Apto 203",
     "area": 53.14,
@@ -551,7 +541,7 @@
   },
   {
     "id": "3-204",
-    "torre": 3,
+    "torre": "3",
     "apto": "204",
     "nombreCompleto": "Torre 3 - Apto 204",
     "area": 53.14,
@@ -561,7 +551,7 @@
   },
   {
     "id": "3-301",
-    "torre": 3,
+    "torre": "3",
     "apto": "301",
     "nombreCompleto": "Torre 3 - Apto 301",
     "area": 53.33,
@@ -571,7 +561,7 @@
   },
   {
     "id": "3-302",
-    "torre": 3,
+    "torre": "3",
     "apto": "302",
     "nombreCompleto": "Torre 3 - Apto 302",
     "area": 53.33,
@@ -581,7 +571,7 @@
   },
   {
     "id": "3-303",
-    "torre": 3,
+    "torre": "3",
     "apto": "303",
     "nombreCompleto": "Torre 3 - Apto 303",
     "area": 53.14,
@@ -591,7 +581,7 @@
   },
   {
     "id": "3-304",
-    "torre": 3,
+    "torre": "3",
     "apto": "304",
     "nombreCompleto": "Torre 3 - Apto 304",
     "area": 53.14,
@@ -601,7 +591,7 @@
   },
   {
     "id": "3-401",
-    "torre": 3,
+    "torre": "3",
     "apto": "401",
     "nombreCompleto": "Torre 3 - Apto 401",
     "area": 53.33,
@@ -611,7 +601,7 @@
   },
   {
     "id": "3-402",
-    "torre": 3,
+    "torre": "3",
     "apto": "402",
     "nombreCompleto": "Torre 3 - Apto 402",
     "area": 53.33,
@@ -621,7 +611,7 @@
   },
   {
     "id": "3-403",
-    "torre": 3,
+    "torre": "3",
     "apto": "403",
     "nombreCompleto": "Torre 3 - Apto 403",
     "area": 53.14,
@@ -631,7 +621,7 @@
   },
   {
     "id": "3-404",
-    "torre": 3,
+    "torre": "3",
     "apto": "404",
     "nombreCompleto": "Torre 3 - Apto 404",
     "area": 53.14,
@@ -641,7 +631,7 @@
   },
   {
     "id": "3-501",
-    "torre": 3,
+    "torre": "3",
     "apto": "501",
     "nombreCompleto": "Torre 3 - Apto 501",
     "area": 53.33,
@@ -651,7 +641,7 @@
   },
   {
     "id": "3-502",
-    "torre": 3,
+    "torre": "3",
     "apto": "502",
     "nombreCompleto": "Torre 3 - Apto 502",
     "area": 53.33,
@@ -661,7 +651,7 @@
   },
   {
     "id": "3-503",
-    "torre": 3,
+    "torre": "3",
     "apto": "503",
     "nombreCompleto": "Torre 3 - Apto 503",
     "area": 53.14,
@@ -671,7 +661,7 @@
   },
   {
     "id": "3-504",
-    "torre": 3,
+    "torre": "3",
     "apto": "504",
     "nombreCompleto": "Torre 3 - Apto 504",
     "area": 53.14,
@@ -681,7 +671,7 @@
   },
   {
     "id": "3-601",
-    "torre": 3,
+    "torre": "3",
     "apto": "601",
     "nombreCompleto": "Torre 3 - Apto 601",
     "area": 53.33,
@@ -691,7 +681,7 @@
   },
   {
     "id": "3-602",
-    "torre": 3,
+    "torre": "3",
     "apto": "602",
     "nombreCompleto": "Torre 3 - Apto 602",
     "area": 53.33,
@@ -701,7 +691,7 @@
   },
   {
     "id": "3-603",
-    "torre": 3,
+    "torre": "3",
     "apto": "603",
     "nombreCompleto": "Torre 3 - Apto 603",
     "area": 53.14,
@@ -711,7 +701,7 @@
   },
   {
     "id": "3-604",
-    "torre": 3,
+    "torre": "3",
     "apto": "604",
     "nombreCompleto": "Torre 3 - Apto 604",
     "area": 53.14,
@@ -721,7 +711,7 @@
   },
   {
     "id": "4-101",
-    "torre": 4,
+    "torre": "4",
     "apto": "101",
     "nombreCompleto": "Torre 4 - Apto 101",
     "area": 53.38,
@@ -731,7 +721,7 @@
   },
   {
     "id": "4-102",
-    "torre": 4,
+    "torre": "4",
     "apto": "102",
     "nombreCompleto": "Torre 4 - Apto 102",
     "area": 53.14,
@@ -741,7 +731,7 @@
   },
   {
     "id": "4-103",
-    "torre": 4,
+    "torre": "4",
     "apto": "103",
     "nombreCompleto": "Torre 4 - Apto 103",
     "area": 53.33,
@@ -750,18 +740,8 @@
     "token": "4b7023535e"
   },
   {
-    "id": "4-104",
-    "torre": 4,
-    "apto": "104",
-    "nombreCompleto": "Torre 4 - Apto 104",
-    "area": 45.97,
-    "coeficiente": 0.1898,
-    "pin": "3111",
-    "token": "36779e1d8e"
-  },
-  {
     "id": "4-201",
-    "torre": 4,
+    "torre": "4",
     "apto": "201",
     "nombreCompleto": "Torre 4 - Apto 201",
     "area": 53.14,
@@ -771,7 +751,7 @@
   },
   {
     "id": "4-202",
-    "torre": 4,
+    "torre": "4",
     "apto": "202",
     "nombreCompleto": "Torre 4 - Apto 202",
     "area": 53.14,
@@ -781,7 +761,7 @@
   },
   {
     "id": "4-203",
-    "torre": 4,
+    "torre": "4",
     "apto": "203",
     "nombreCompleto": "Torre 4 - Apto 203",
     "area": 53.33,
@@ -791,7 +771,7 @@
   },
   {
     "id": "4-204",
-    "torre": 4,
+    "torre": "4",
     "apto": "204",
     "nombreCompleto": "Torre 4 - Apto 204",
     "area": 53.33,
@@ -801,7 +781,7 @@
   },
   {
     "id": "4-301",
-    "torre": 4,
+    "torre": "4",
     "apto": "301",
     "nombreCompleto": "Torre 4 - Apto 301",
     "area": 53.14,
@@ -811,7 +791,7 @@
   },
   {
     "id": "4-302",
-    "torre": 4,
+    "torre": "4",
     "apto": "302",
     "nombreCompleto": "Torre 4 - Apto 302",
     "area": 53.14,
@@ -821,7 +801,7 @@
   },
   {
     "id": "4-303",
-    "torre": 4,
+    "torre": "4",
     "apto": "303",
     "nombreCompleto": "Torre 4 - Apto 303",
     "area": 53.33,
@@ -831,7 +811,7 @@
   },
   {
     "id": "4-304",
-    "torre": 4,
+    "torre": "4",
     "apto": "304",
     "nombreCompleto": "Torre 4 - Apto 304",
     "area": 53.33,
@@ -841,7 +821,7 @@
   },
   {
     "id": "4-401",
-    "torre": 4,
+    "torre": "4",
     "apto": "401",
     "nombreCompleto": "Torre 4 - Apto 401",
     "area": 53.14,
@@ -851,7 +831,7 @@
   },
   {
     "id": "4-402",
-    "torre": 4,
+    "torre": "4",
     "apto": "402",
     "nombreCompleto": "Torre 4 - Apto 402",
     "area": 53.14,
@@ -861,7 +841,7 @@
   },
   {
     "id": "4-403",
-    "torre": 4,
+    "torre": "4",
     "apto": "403",
     "nombreCompleto": "Torre 4 - Apto 403",
     "area": 53.33,
@@ -871,7 +851,7 @@
   },
   {
     "id": "4-404",
-    "torre": 4,
+    "torre": "4",
     "apto": "404",
     "nombreCompleto": "Torre 4 - Apto 404",
     "area": 53.33,
@@ -881,7 +861,7 @@
   },
   {
     "id": "4-501",
-    "torre": 4,
+    "torre": "4",
     "apto": "501",
     "nombreCompleto": "Torre 4 - Apto 501",
     "area": 53.14,
@@ -891,7 +871,7 @@
   },
   {
     "id": "4-502",
-    "torre": 4,
+    "torre": "4",
     "apto": "502",
     "nombreCompleto": "Torre 4 - Apto 502",
     "area": 53.14,
@@ -901,7 +881,7 @@
   },
   {
     "id": "4-503",
-    "torre": 4,
+    "torre": "4",
     "apto": "503",
     "nombreCompleto": "Torre 4 - Apto 503",
     "area": 53.33,
@@ -911,7 +891,7 @@
   },
   {
     "id": "4-504",
-    "torre": 4,
+    "torre": "4",
     "apto": "504",
     "nombreCompleto": "Torre 4 - Apto 504",
     "area": 53.33,
@@ -921,7 +901,7 @@
   },
   {
     "id": "4-601",
-    "torre": 4,
+    "torre": "4",
     "apto": "601",
     "nombreCompleto": "Torre 4 - Apto 601",
     "area": 53.14,
@@ -931,7 +911,7 @@
   },
   {
     "id": "4-602",
-    "torre": 4,
+    "torre": "4",
     "apto": "602",
     "nombreCompleto": "Torre 4 - Apto 602",
     "area": 53.14,
@@ -941,7 +921,7 @@
   },
   {
     "id": "4-603",
-    "torre": 4,
+    "torre": "4",
     "apto": "603",
     "nombreCompleto": "Torre 4 - Apto 603",
     "area": 53.33,
@@ -951,7 +931,7 @@
   },
   {
     "id": "4-604",
-    "torre": 4,
+    "torre": "4",
     "apto": "604",
     "nombreCompleto": "Torre 4 - Apto 604",
     "area": 53.33,
@@ -961,7 +941,7 @@
   },
   {
     "id": "5-101",
-    "torre": 5,
+    "torre": "5",
     "apto": "101",
     "nombreCompleto": "Torre 5 - Apto 101",
     "area": 53.56,
@@ -971,7 +951,7 @@
   },
   {
     "id": "5-102",
-    "torre": 5,
+    "torre": "5",
     "apto": "102",
     "nombreCompleto": "Torre 5 - Apto 102",
     "area": 53.33,
@@ -981,7 +961,7 @@
   },
   {
     "id": "5-103",
-    "torre": 5,
+    "torre": "5",
     "apto": "103",
     "nombreCompleto": "Torre 5 - Apto 103",
     "area": 53.14,
@@ -991,7 +971,7 @@
   },
   {
     "id": "5-104",
-    "torre": 5,
+    "torre": "5",
     "apto": "104",
     "nombreCompleto": "Torre 5 - Apto 104",
     "area": 45.79,
@@ -1001,7 +981,7 @@
   },
   {
     "id": "5-201",
-    "torre": 5,
+    "torre": "5",
     "apto": "201",
     "nombreCompleto": "Torre 5 - Apto 201",
     "area": 53.33,
@@ -1011,7 +991,7 @@
   },
   {
     "id": "5-202",
-    "torre": 5,
+    "torre": "5",
     "apto": "202",
     "nombreCompleto": "Torre 5 - Apto 202",
     "area": 53.33,
@@ -1021,7 +1001,7 @@
   },
   {
     "id": "5-203",
-    "torre": 5,
+    "torre": "5",
     "apto": "203",
     "nombreCompleto": "Torre 5 - Apto 203",
     "area": 53.14,
@@ -1031,7 +1011,7 @@
   },
   {
     "id": "5-204",
-    "torre": 5,
+    "torre": "5",
     "apto": "204",
     "nombreCompleto": "Torre 5 - Apto 204",
     "area": 53.14,
@@ -1041,7 +1021,7 @@
   },
   {
     "id": "5-301",
-    "torre": 5,
+    "torre": "5",
     "apto": "301",
     "nombreCompleto": "Torre 5 - Apto 301",
     "area": 53.33,
@@ -1051,7 +1031,7 @@
   },
   {
     "id": "5-302",
-    "torre": 5,
+    "torre": "5",
     "apto": "302",
     "nombreCompleto": "Torre 5 - Apto 302",
     "area": 53.33,
@@ -1061,7 +1041,7 @@
   },
   {
     "id": "5-303",
-    "torre": 5,
+    "torre": "5",
     "apto": "303",
     "nombreCompleto": "Torre 5 - Apto 303",
     "area": 53.14,
@@ -1071,7 +1051,7 @@
   },
   {
     "id": "5-304",
-    "torre": 5,
+    "torre": "5",
     "apto": "304",
     "nombreCompleto": "Torre 5 - Apto 304",
     "area": 53.14,
@@ -1081,7 +1061,7 @@
   },
   {
     "id": "5-401",
-    "torre": 5,
+    "torre": "5",
     "apto": "401",
     "nombreCompleto": "Torre 5 - Apto 401",
     "area": 53.33,
@@ -1091,7 +1071,7 @@
   },
   {
     "id": "5-402",
-    "torre": 5,
+    "torre": "5",
     "apto": "402",
     "nombreCompleto": "Torre 5 - Apto 402",
     "area": 53.33,
@@ -1101,7 +1081,7 @@
   },
   {
     "id": "5-403",
-    "torre": 5,
+    "torre": "5",
     "apto": "403",
     "nombreCompleto": "Torre 5 - Apto 403",
     "area": 53.14,
@@ -1111,7 +1091,7 @@
   },
   {
     "id": "5-404",
-    "torre": 5,
+    "torre": "5",
     "apto": "404",
     "nombreCompleto": "Torre 5 - Apto 404",
     "area": 53.14,
@@ -1121,7 +1101,7 @@
   },
   {
     "id": "5-501",
-    "torre": 5,
+    "torre": "5",
     "apto": "501",
     "nombreCompleto": "Torre 5 - Apto 501",
     "area": 53.33,
@@ -1131,7 +1111,7 @@
   },
   {
     "id": "5-502",
-    "torre": 5,
+    "torre": "5",
     "apto": "502",
     "nombreCompleto": "Torre 5 - Apto 502",
     "area": 53.33,
@@ -1141,7 +1121,7 @@
   },
   {
     "id": "5-503",
-    "torre": 5,
+    "torre": "5",
     "apto": "503",
     "nombreCompleto": "Torre 5 - Apto 503",
     "area": 53.14,
@@ -1151,7 +1131,7 @@
   },
   {
     "id": "5-504",
-    "torre": 5,
+    "torre": "5",
     "apto": "504",
     "nombreCompleto": "Torre 5 - Apto 504",
     "area": 53.14,
@@ -1161,7 +1141,7 @@
   },
   {
     "id": "5-601",
-    "torre": 5,
+    "torre": "5",
     "apto": "601",
     "nombreCompleto": "Torre 5 - Apto 601",
     "area": 53.33,
@@ -1171,7 +1151,7 @@
   },
   {
     "id": "5-602",
-    "torre": 5,
+    "torre": "5",
     "apto": "602",
     "nombreCompleto": "Torre 5 - Apto 602",
     "area": 53.33,
@@ -1181,7 +1161,7 @@
   },
   {
     "id": "5-603",
-    "torre": 5,
+    "torre": "5",
     "apto": "603",
     "nombreCompleto": "Torre 5 - Apto 603",
     "area": 53.14,
@@ -1191,7 +1171,7 @@
   },
   {
     "id": "5-604",
-    "torre": 5,
+    "torre": "5",
     "apto": "604",
     "nombreCompleto": "Torre 5 - Apto 604",
     "area": 53.14,
@@ -1201,7 +1181,7 @@
   },
   {
     "id": "6-101",
-    "torre": 6,
+    "torre": "6",
     "apto": "101",
     "nombreCompleto": "Torre 6 - Apto 101",
     "area": 53.38,
@@ -1211,7 +1191,7 @@
   },
   {
     "id": "6-102",
-    "torre": 6,
+    "torre": "6",
     "apto": "102",
     "nombreCompleto": "Torre 6 - Apto 102",
     "area": 53.14,
@@ -1221,7 +1201,7 @@
   },
   {
     "id": "6-103",
-    "torre": 6,
+    "torre": "6",
     "apto": "103",
     "nombreCompleto": "Torre 6 - Apto 103",
     "area": 53.33,
@@ -1231,7 +1211,7 @@
   },
   {
     "id": "6-104",
-    "torre": 6,
+    "torre": "6",
     "apto": "104",
     "nombreCompleto": "Torre 6 - Apto 104",
     "area": 45.97,
@@ -1241,7 +1221,7 @@
   },
   {
     "id": "6-201",
-    "torre": 6,
+    "torre": "6",
     "apto": "201",
     "nombreCompleto": "Torre 6 - Apto 201",
     "area": 53.14,
@@ -1251,7 +1231,7 @@
   },
   {
     "id": "6-202",
-    "torre": 6,
+    "torre": "6",
     "apto": "202",
     "nombreCompleto": "Torre 6 - Apto 202",
     "area": 53.14,
@@ -1261,7 +1241,7 @@
   },
   {
     "id": "6-203",
-    "torre": 6,
+    "torre": "6",
     "apto": "203",
     "nombreCompleto": "Torre 6 - Apto 203",
     "area": 53.33,
@@ -1271,7 +1251,7 @@
   },
   {
     "id": "6-204",
-    "torre": 6,
+    "torre": "6",
     "apto": "204",
     "nombreCompleto": "Torre 6 - Apto 204",
     "area": 53.33,
@@ -1281,7 +1261,7 @@
   },
   {
     "id": "6-301",
-    "torre": 6,
+    "torre": "6",
     "apto": "301",
     "nombreCompleto": "Torre 6 - Apto 301",
     "area": 53.14,
@@ -1291,7 +1271,7 @@
   },
   {
     "id": "6-302",
-    "torre": 6,
+    "torre": "6",
     "apto": "302",
     "nombreCompleto": "Torre 6 - Apto 302",
     "area": 53.14,
@@ -1301,7 +1281,7 @@
   },
   {
     "id": "6-303",
-    "torre": 6,
+    "torre": "6",
     "apto": "303",
     "nombreCompleto": "Torre 6 - Apto 303",
     "area": 53.33,
@@ -1311,7 +1291,7 @@
   },
   {
     "id": "6-304",
-    "torre": 6,
+    "torre": "6",
     "apto": "304",
     "nombreCompleto": "Torre 6 - Apto 304",
     "area": 53.33,
@@ -1321,7 +1301,7 @@
   },
   {
     "id": "6-401",
-    "torre": 6,
+    "torre": "6",
     "apto": "401",
     "nombreCompleto": "Torre 6 - Apto 401",
     "area": 53.14,
@@ -1331,7 +1311,7 @@
   },
   {
     "id": "6-402",
-    "torre": 6,
+    "torre": "6",
     "apto": "402",
     "nombreCompleto": "Torre 6 - Apto 402",
     "area": 53.14,
@@ -1341,7 +1321,7 @@
   },
   {
     "id": "6-403",
-    "torre": 6,
+    "torre": "6",
     "apto": "403",
     "nombreCompleto": "Torre 6 - Apto 403",
     "area": 53.33,
@@ -1351,7 +1331,7 @@
   },
   {
     "id": "6-404",
-    "torre": 6,
+    "torre": "6",
     "apto": "404",
     "nombreCompleto": "Torre 6 - Apto 404",
     "area": 53.33,
@@ -1361,7 +1341,7 @@
   },
   {
     "id": "6-501",
-    "torre": 6,
+    "torre": "6",
     "apto": "501",
     "nombreCompleto": "Torre 6 - Apto 501",
     "area": 53.14,
@@ -1371,7 +1351,7 @@
   },
   {
     "id": "6-502",
-    "torre": 6,
+    "torre": "6",
     "apto": "502",
     "nombreCompleto": "Torre 6 - Apto 502",
     "area": 53.14,
@@ -1381,7 +1361,7 @@
   },
   {
     "id": "6-503",
-    "torre": 6,
+    "torre": "6",
     "apto": "503",
     "nombreCompleto": "Torre 6 - Apto 503",
     "area": 53.33,
@@ -1391,7 +1371,7 @@
   },
   {
     "id": "6-504",
-    "torre": 6,
+    "torre": "6",
     "apto": "504",
     "nombreCompleto": "Torre 6 - Apto 504",
     "area": 53.33,
@@ -1401,7 +1381,7 @@
   },
   {
     "id": "6-601",
-    "torre": 6,
+    "torre": "6",
     "apto": "601",
     "nombreCompleto": "Torre 6 - Apto 601",
     "area": 53.14,
@@ -1411,7 +1391,7 @@
   },
   {
     "id": "6-602",
-    "torre": 6,
+    "torre": "6",
     "apto": "602",
     "nombreCompleto": "Torre 6 - Apto 602",
     "area": 53.14,
@@ -1421,7 +1401,7 @@
   },
   {
     "id": "6-603",
-    "torre": 6,
+    "torre": "6",
     "apto": "603",
     "nombreCompleto": "Torre 6 - Apto 603",
     "area": 53.33,
@@ -1431,7 +1411,7 @@
   },
   {
     "id": "6-604",
-    "torre": 6,
+    "torre": "6",
     "apto": "604",
     "nombreCompleto": "Torre 6 - Apto 604",
     "area": 53.33,
@@ -1441,7 +1421,7 @@
   },
   {
     "id": "7-101",
-    "torre": 7,
+    "torre": "7",
     "apto": "101",
     "nombreCompleto": "Torre 7 - Apto 101",
     "area": 53.56,
@@ -1451,7 +1431,7 @@
   },
   {
     "id": "7-102",
-    "torre": 7,
+    "torre": "7",
     "apto": "102",
     "nombreCompleto": "Torre 7 - Apto 102",
     "area": 53.33,
@@ -1461,7 +1441,7 @@
   },
   {
     "id": "7-103",
-    "torre": 7,
+    "torre": "7",
     "apto": "103",
     "nombreCompleto": "Torre 7 - Apto 103",
     "area": 53.14,
@@ -1471,7 +1451,7 @@
   },
   {
     "id": "7-104",
-    "torre": 7,
+    "torre": "7",
     "apto": "104",
     "nombreCompleto": "Torre 7 - Apto 104",
     "area": 45.79,
@@ -1481,7 +1461,7 @@
   },
   {
     "id": "7-201",
-    "torre": 7,
+    "torre": "7",
     "apto": "201",
     "nombreCompleto": "Torre 7 - Apto 201",
     "area": 53.33,
@@ -1491,7 +1471,7 @@
   },
   {
     "id": "7-202",
-    "torre": 7,
+    "torre": "7",
     "apto": "202",
     "nombreCompleto": "Torre 7 - Apto 202",
     "area": 53.33,
@@ -1501,7 +1481,7 @@
   },
   {
     "id": "7-203",
-    "torre": 7,
+    "torre": "7",
     "apto": "203",
     "nombreCompleto": "Torre 7 - Apto 203",
     "area": 53.14,
@@ -1511,7 +1491,7 @@
   },
   {
     "id": "7-204",
-    "torre": 7,
+    "torre": "7",
     "apto": "204",
     "nombreCompleto": "Torre 7 - Apto 204",
     "area": 53.14,
@@ -1521,7 +1501,7 @@
   },
   {
     "id": "7-301",
-    "torre": 7,
+    "torre": "7",
     "apto": "301",
     "nombreCompleto": "Torre 7 - Apto 301",
     "area": 53.33,
@@ -1531,7 +1511,7 @@
   },
   {
     "id": "7-302",
-    "torre": 7,
+    "torre": "7",
     "apto": "302",
     "nombreCompleto": "Torre 7 - Apto 302",
     "area": 53.33,
@@ -1541,7 +1521,7 @@
   },
   {
     "id": "7-303",
-    "torre": 7,
+    "torre": "7",
     "apto": "303",
     "nombreCompleto": "Torre 7 - Apto 303",
     "area": 53.14,
@@ -1551,7 +1531,7 @@
   },
   {
     "id": "7-304",
-    "torre": 7,
+    "torre": "7",
     "apto": "304",
     "nombreCompleto": "Torre 7 - Apto 304",
     "area": 53.14,
@@ -1561,7 +1541,7 @@
   },
   {
     "id": "7-401",
-    "torre": 7,
+    "torre": "7",
     "apto": "401",
     "nombreCompleto": "Torre 7 - Apto 401",
     "area": 53.33,
@@ -1571,7 +1551,7 @@
   },
   {
     "id": "7-402",
-    "torre": 7,
+    "torre": "7",
     "apto": "402",
     "nombreCompleto": "Torre 7 - Apto 402",
     "area": 53.33,
@@ -1581,7 +1561,7 @@
   },
   {
     "id": "7-403",
-    "torre": 7,
+    "torre": "7",
     "apto": "403",
     "nombreCompleto": "Torre 7 - Apto 403",
     "area": 53.14,
@@ -1591,7 +1571,7 @@
   },
   {
     "id": "7-404",
-    "torre": 7,
+    "torre": "7",
     "apto": "404",
     "nombreCompleto": "Torre 7 - Apto 404",
     "area": 53.14,
@@ -1601,7 +1581,7 @@
   },
   {
     "id": "7-501",
-    "torre": 7,
+    "torre": "7",
     "apto": "501",
     "nombreCompleto": "Torre 7 - Apto 501",
     "area": 53.33,
@@ -1611,7 +1591,7 @@
   },
   {
     "id": "7-502",
-    "torre": 7,
+    "torre": "7",
     "apto": "502",
     "nombreCompleto": "Torre 7 - Apto 502",
     "area": 53.33,
@@ -1621,7 +1601,7 @@
   },
   {
     "id": "7-503",
-    "torre": 7,
+    "torre": "7",
     "apto": "503",
     "nombreCompleto": "Torre 7 - Apto 503",
     "area": 53.14,
@@ -1631,7 +1611,7 @@
   },
   {
     "id": "7-504",
-    "torre": 7,
+    "torre": "7",
     "apto": "504",
     "nombreCompleto": "Torre 7 - Apto 504",
     "area": 53.14,
@@ -1641,7 +1621,7 @@
   },
   {
     "id": "7-601",
-    "torre": 7,
+    "torre": "7",
     "apto": "601",
     "nombreCompleto": "Torre 7 - Apto 601",
     "area": 53.33,
@@ -1651,7 +1631,7 @@
   },
   {
     "id": "7-602",
-    "torre": 7,
+    "torre": "7",
     "apto": "602",
     "nombreCompleto": "Torre 7 - Apto 602",
     "area": 53.33,
@@ -1661,7 +1641,7 @@
   },
   {
     "id": "7-603",
-    "torre": 7,
+    "torre": "7",
     "apto": "603",
     "nombreCompleto": "Torre 7 - Apto 603",
     "area": 53.14,
@@ -1671,7 +1651,7 @@
   },
   {
     "id": "7-604",
-    "torre": 7,
+    "torre": "7",
     "apto": "604",
     "nombreCompleto": "Torre 7 - Apto 604",
     "area": 53.14,
@@ -1681,7 +1661,7 @@
   },
   {
     "id": "8-101",
-    "torre": 8,
+    "torre": "8",
     "apto": "101",
     "nombreCompleto": "Torre 8 - Apto 101",
     "area": 53.38,
@@ -1690,18 +1670,8 @@
     "token": "e50397d465"
   },
   {
-    "id": "8-102",
-    "torre": 8,
-    "apto": "102",
-    "nombreCompleto": "Torre 8 - Apto 102",
-    "area": 53.14,
-    "coeficiente": 0.2194,
-    "pin": "7796",
-    "token": "be4c8761d0"
-  },
-  {
     "id": "8-103",
-    "torre": 8,
+    "torre": "8",
     "apto": "103",
     "nombreCompleto": "Torre 8 - Apto 103",
     "area": 53.33,
@@ -1711,7 +1681,7 @@
   },
   {
     "id": "8-104",
-    "torre": 8,
+    "torre": "8",
     "apto": "104",
     "nombreCompleto": "Torre 8 - Apto 104",
     "area": 45.97,
@@ -1721,7 +1691,7 @@
   },
   {
     "id": "8-201",
-    "torre": 8,
+    "torre": "8",
     "apto": "201",
     "nombreCompleto": "Torre 8 - Apto 201",
     "area": 53.14,
@@ -1731,7 +1701,7 @@
   },
   {
     "id": "8-202",
-    "torre": 8,
+    "torre": "8",
     "apto": "202",
     "nombreCompleto": "Torre 8 - Apto 202",
     "area": 53.14,
@@ -1741,7 +1711,7 @@
   },
   {
     "id": "8-203",
-    "torre": 8,
+    "torre": "8",
     "apto": "203",
     "nombreCompleto": "Torre 8 - Apto 203",
     "area": 53.33,
@@ -1751,7 +1721,7 @@
   },
   {
     "id": "8-204",
-    "torre": 8,
+    "torre": "8",
     "apto": "204",
     "nombreCompleto": "Torre 8 - Apto 204",
     "area": 53.33,
@@ -1760,18 +1730,8 @@
     "token": "fcc21a1a54"
   },
   {
-    "id": "8-301",
-    "torre": 8,
-    "apto": "301",
-    "nombreCompleto": "Torre 8 - Apto 301",
-    "area": 53.14,
-    "coeficiente": 0.2194,
-    "pin": "3534",
-    "token": "6729b8cb97"
-  },
-  {
     "id": "8-302",
-    "torre": 8,
+    "torre": "8",
     "apto": "302",
     "nombreCompleto": "Torre 8 - Apto 302",
     "area": 53.14,
@@ -1781,7 +1741,7 @@
   },
   {
     "id": "8-303",
-    "torre": 8,
+    "torre": "8",
     "apto": "303",
     "nombreCompleto": "Torre 8 - Apto 303",
     "area": 53.33,
@@ -1791,7 +1751,7 @@
   },
   {
     "id": "8-304",
-    "torre": 8,
+    "torre": "8",
     "apto": "304",
     "nombreCompleto": "Torre 8 - Apto 304",
     "area": 53.33,
@@ -1801,7 +1761,7 @@
   },
   {
     "id": "8-401",
-    "torre": 8,
+    "torre": "8",
     "apto": "401",
     "nombreCompleto": "Torre 8 - Apto 401",
     "area": 53.14,
@@ -1811,7 +1771,7 @@
   },
   {
     "id": "8-402",
-    "torre": 8,
+    "torre": "8",
     "apto": "402",
     "nombreCompleto": "Torre 8 - Apto 402",
     "area": 53.14,
@@ -1821,7 +1781,7 @@
   },
   {
     "id": "8-403",
-    "torre": 8,
+    "torre": "8",
     "apto": "403",
     "nombreCompleto": "Torre 8 - Apto 403",
     "area": 53.33,
@@ -1830,18 +1790,8 @@
     "token": "c30114a771"
   },
   {
-    "id": "8-404",
-    "torre": 8,
-    "apto": "404",
-    "nombreCompleto": "Torre 8 - Apto 404",
-    "area": 53.33,
-    "coeficiente": 0.2202,
-    "pin": "1934",
-    "token": "082b5d0259"
-  },
-  {
     "id": "8-501",
-    "torre": 8,
+    "torre": "8",
     "apto": "501",
     "nombreCompleto": "Torre 8 - Apto 501",
     "area": 53.14,
@@ -1850,18 +1800,8 @@
     "token": "a5d1e9d6c6"
   },
   {
-    "id": "8-502",
-    "torre": 8,
-    "apto": "502",
-    "nombreCompleto": "Torre 8 - Apto 502",
-    "area": 53.14,
-    "coeficiente": 0.2194,
-    "pin": "8975",
-    "token": "dab0f80d7d"
-  },
-  {
     "id": "8-503",
-    "torre": 8,
+    "torre": "8",
     "apto": "503",
     "nombreCompleto": "Torre 8 - Apto 503",
     "area": 53.33,
@@ -1871,7 +1811,7 @@
   },
   {
     "id": "8-504",
-    "torre": 8,
+    "torre": "8",
     "apto": "504",
     "nombreCompleto": "Torre 8 - Apto 504",
     "area": 53.33,
@@ -1881,7 +1821,7 @@
   },
   {
     "id": "8-601",
-    "torre": 8,
+    "torre": "8",
     "apto": "601",
     "nombreCompleto": "Torre 8 - Apto 601",
     "area": 53.14,
@@ -1891,7 +1831,7 @@
   },
   {
     "id": "8-602",
-    "torre": 8,
+    "torre": "8",
     "apto": "602",
     "nombreCompleto": "Torre 8 - Apto 602",
     "area": 53.14,
@@ -1901,7 +1841,7 @@
   },
   {
     "id": "8-603",
-    "torre": 8,
+    "torre": "8",
     "apto": "603",
     "nombreCompleto": "Torre 8 - Apto 603",
     "area": 53.33,
@@ -1911,7 +1851,7 @@
   },
   {
     "id": "8-604",
-    "torre": 8,
+    "torre": "8",
     "apto": "604",
     "nombreCompleto": "Torre 8 - Apto 604",
     "area": 53.33,
@@ -1921,7 +1861,7 @@
   },
   {
     "id": "9-101",
-    "torre": 9,
+    "torre": "9",
     "apto": "101",
     "nombreCompleto": "Torre 9 - Apto 101",
     "area": 53.56,
@@ -1931,7 +1871,7 @@
   },
   {
     "id": "9-102",
-    "torre": 9,
+    "torre": "9",
     "apto": "102",
     "nombreCompleto": "Torre 9 - Apto 102",
     "area": 53.33,
@@ -1941,7 +1881,7 @@
   },
   {
     "id": "9-103",
-    "torre": 9,
+    "torre": "9",
     "apto": "103",
     "nombreCompleto": "Torre 9 - Apto 103",
     "area": 53.14,
@@ -1951,7 +1891,7 @@
   },
   {
     "id": "9-104",
-    "torre": 9,
+    "torre": "9",
     "apto": "104",
     "nombreCompleto": "Torre 9 - Apto 104",
     "area": 45.79,
@@ -1961,7 +1901,7 @@
   },
   {
     "id": "9-201",
-    "torre": 9,
+    "torre": "9",
     "apto": "201",
     "nombreCompleto": "Torre 9 - Apto 201",
     "area": 53.33,
@@ -1971,7 +1911,7 @@
   },
   {
     "id": "9-202",
-    "torre": 9,
+    "torre": "9",
     "apto": "202",
     "nombreCompleto": "Torre 9 - Apto 202",
     "area": 53.33,
@@ -1981,7 +1921,7 @@
   },
   {
     "id": "9-203",
-    "torre": 9,
+    "torre": "9",
     "apto": "203",
     "nombreCompleto": "Torre 9 - Apto 203",
     "area": 53.14,
@@ -1990,18 +1930,8 @@
     "token": "3da6342d20"
   },
   {
-    "id": "9-204",
-    "torre": 9,
-    "apto": "204",
-    "nombreCompleto": "Torre 9 - Apto 204",
-    "area": 53.14,
-    "coeficiente": 0.2194,
-    "pin": "8220",
-    "token": "806959a45d"
-  },
-  {
     "id": "9-301",
-    "torre": 9,
+    "torre": "9",
     "apto": "301",
     "nombreCompleto": "Torre 9 - Apto 301",
     "area": 53.33,
@@ -2011,7 +1941,7 @@
   },
   {
     "id": "9-302",
-    "torre": 9,
+    "torre": "9",
     "apto": "302",
     "nombreCompleto": "Torre 9 - Apto 302",
     "area": 53.33,
@@ -2021,7 +1951,7 @@
   },
   {
     "id": "9-303",
-    "torre": 9,
+    "torre": "9",
     "apto": "303",
     "nombreCompleto": "Torre 9 - Apto 303",
     "area": 53.14,
@@ -2031,7 +1961,7 @@
   },
   {
     "id": "9-304",
-    "torre": 9,
+    "torre": "9",
     "apto": "304",
     "nombreCompleto": "Torre 9 - Apto 304",
     "area": 53.14,
@@ -2041,7 +1971,7 @@
   },
   {
     "id": "9-401",
-    "torre": 9,
+    "torre": "9",
     "apto": "401",
     "nombreCompleto": "Torre 9 - Apto 401",
     "area": 53.33,
@@ -2051,7 +1981,7 @@
   },
   {
     "id": "9-402",
-    "torre": 9,
+    "torre": "9",
     "apto": "402",
     "nombreCompleto": "Torre 9 - Apto 402",
     "area": 53.33,
@@ -2061,7 +1991,7 @@
   },
   {
     "id": "9-403",
-    "torre": 9,
+    "torre": "9",
     "apto": "403",
     "nombreCompleto": "Torre 9 - Apto 403",
     "area": 53.14,
@@ -2071,7 +2001,7 @@
   },
   {
     "id": "9-404",
-    "torre": 9,
+    "torre": "9",
     "apto": "404",
     "nombreCompleto": "Torre 9 - Apto 404",
     "area": 53.14,
@@ -2080,18 +2010,8 @@
     "token": "56987b6236"
   },
   {
-    "id": "9-501",
-    "torre": 9,
-    "apto": "501",
-    "nombreCompleto": "Torre 9 - Apto 501",
-    "area": 53.33,
-    "coeficiente": 0.2202,
-    "pin": "5272",
-    "token": "4d8c9b14c7"
-  },
-  {
     "id": "9-502",
-    "torre": 9,
+    "torre": "9",
     "apto": "502",
     "nombreCompleto": "Torre 9 - Apto 502",
     "area": 53.33,
@@ -2101,7 +2021,7 @@
   },
   {
     "id": "9-503",
-    "torre": 9,
+    "torre": "9",
     "apto": "503",
     "nombreCompleto": "Torre 9 - Apto 503",
     "area": 53.14,
@@ -2111,7 +2031,7 @@
   },
   {
     "id": "9-504",
-    "torre": 9,
+    "torre": "9",
     "apto": "504",
     "nombreCompleto": "Torre 9 - Apto 504",
     "area": 53.14,
@@ -2121,7 +2041,7 @@
   },
   {
     "id": "9-601",
-    "torre": 9,
+    "torre": "9",
     "apto": "601",
     "nombreCompleto": "Torre 9 - Apto 601",
     "area": 53.33,
@@ -2131,7 +2051,7 @@
   },
   {
     "id": "9-602",
-    "torre": 9,
+    "torre": "9",
     "apto": "602",
     "nombreCompleto": "Torre 9 - Apto 602",
     "area": 53.33,
@@ -2141,7 +2061,7 @@
   },
   {
     "id": "9-603",
-    "torre": 9,
+    "torre": "9",
     "apto": "603",
     "nombreCompleto": "Torre 9 - Apto 603",
     "area": 53.14,
@@ -2151,7 +2071,7 @@
   },
   {
     "id": "9-604",
-    "torre": 9,
+    "torre": "9",
     "apto": "604",
     "nombreCompleto": "Torre 9 - Apto 604",
     "area": 53.14,
@@ -2160,18 +2080,8 @@
     "token": "405ea59250"
   },
   {
-    "id": "10-101",
-    "torre": 10,
-    "apto": "101",
-    "nombreCompleto": "Torre 10 - Apto 101",
-    "area": 53.38,
-    "coeficiente": 0.2204,
-    "pin": "4143",
-    "token": "9cbde94382"
-  },
-  {
     "id": "10-102",
-    "torre": 10,
+    "torre": "10",
     "apto": "102",
     "nombreCompleto": "Torre 10 - Apto 102",
     "area": 53.14,
@@ -2181,7 +2091,7 @@
   },
   {
     "id": "10-103",
-    "torre": 10,
+    "torre": "10",
     "apto": "103",
     "nombreCompleto": "Torre 10 - Apto 103",
     "area": 53.33,
@@ -2190,18 +2100,8 @@
     "token": "48383b0b2d"
   },
   {
-    "id": "10-104",
-    "torre": 10,
-    "apto": "104",
-    "nombreCompleto": "Torre 10 - Apto 104",
-    "area": 45.97,
-    "coeficiente": 0.1898,
-    "pin": "2373",
-    "token": "871c5ef5aa"
-  },
-  {
     "id": "10-201",
-    "torre": 10,
+    "torre": "10",
     "apto": "201",
     "nombreCompleto": "Torre 10 - Apto 201",
     "area": 53.14,
@@ -2211,7 +2111,7 @@
   },
   {
     "id": "10-202",
-    "torre": 10,
+    "torre": "10",
     "apto": "202",
     "nombreCompleto": "Torre 10 - Apto 202",
     "area": 53.14,
@@ -2220,18 +2120,8 @@
     "token": "9fe2253bda"
   },
   {
-    "id": "10-203",
-    "torre": 10,
-    "apto": "203",
-    "nombreCompleto": "Torre 10 - Apto 203",
-    "area": 53.33,
-    "coeficiente": 0.2202,
-    "pin": "8094",
-    "token": "97fa4414f7"
-  },
-  {
     "id": "10-204",
-    "torre": 10,
+    "torre": "10",
     "apto": "204",
     "nombreCompleto": "Torre 10 - Apto 204",
     "area": 53.33,
@@ -2241,7 +2131,7 @@
   },
   {
     "id": "10-301",
-    "torre": 10,
+    "torre": "10",
     "apto": "301",
     "nombreCompleto": "Torre 10 - Apto 301",
     "area": 53.14,
@@ -2251,7 +2141,7 @@
   },
   {
     "id": "10-302",
-    "torre": 10,
+    "torre": "10",
     "apto": "302",
     "nombreCompleto": "Torre 10 - Apto 302",
     "area": 53.14,
@@ -2261,7 +2151,7 @@
   },
   {
     "id": "10-303",
-    "torre": 10,
+    "torre": "10",
     "apto": "303",
     "nombreCompleto": "Torre 10 - Apto 303",
     "area": 53.33,
@@ -2271,7 +2161,7 @@
   },
   {
     "id": "10-304",
-    "torre": 10,
+    "torre": "10",
     "apto": "304",
     "nombreCompleto": "Torre 10 - Apto 304",
     "area": 53.33,
@@ -2281,7 +2171,7 @@
   },
   {
     "id": "10-401",
-    "torre": 10,
+    "torre": "10",
     "apto": "401",
     "nombreCompleto": "Torre 10 - Apto 401",
     "area": 53.14,
@@ -2291,7 +2181,7 @@
   },
   {
     "id": "10-402",
-    "torre": 10,
+    "torre": "10",
     "apto": "402",
     "nombreCompleto": "Torre 10 - Apto 402",
     "area": 53.14,
@@ -2300,18 +2190,8 @@
     "token": "a9538abee9"
   },
   {
-    "id": "10-403",
-    "torre": 10,
-    "apto": "403",
-    "nombreCompleto": "Torre 10 - Apto 403",
-    "area": 53.33,
-    "coeficiente": 0.2202,
-    "pin": "2487",
-    "token": "05b74a4050"
-  },
-  {
     "id": "10-404",
-    "torre": 10,
+    "torre": "10",
     "apto": "404",
     "nombreCompleto": "Torre 10 - Apto 404",
     "area": 53.33,
@@ -2321,7 +2201,7 @@
   },
   {
     "id": "10-501",
-    "torre": 10,
+    "torre": "10",
     "apto": "501",
     "nombreCompleto": "Torre 10 - Apto 501",
     "area": 53.14,
@@ -2331,7 +2211,7 @@
   },
   {
     "id": "10-502",
-    "torre": 10,
+    "torre": "10",
     "apto": "502",
     "nombreCompleto": "Torre 10 - Apto 502",
     "area": 53.14,
@@ -2341,7 +2221,7 @@
   },
   {
     "id": "10-503",
-    "torre": 10,
+    "torre": "10",
     "apto": "503",
     "nombreCompleto": "Torre 10 - Apto 503",
     "area": 53.33,
@@ -2351,7 +2231,7 @@
   },
   {
     "id": "10-504",
-    "torre": 10,
+    "torre": "10",
     "apto": "504",
     "nombreCompleto": "Torre 10 - Apto 504",
     "area": 53.33,
@@ -2361,7 +2241,7 @@
   },
   {
     "id": "10-601",
-    "torre": 10,
+    "torre": "10",
     "apto": "601",
     "nombreCompleto": "Torre 10 - Apto 601",
     "area": 53.14,
@@ -2371,7 +2251,7 @@
   },
   {
     "id": "10-602",
-    "torre": 10,
+    "torre": "10",
     "apto": "602",
     "nombreCompleto": "Torre 10 - Apto 602",
     "area": 53.14,
@@ -2380,18 +2260,8 @@
     "token": "c575ae2011"
   },
   {
-    "id": "10-603",
-    "torre": 10,
-    "apto": "603",
-    "nombreCompleto": "Torre 10 - Apto 603",
-    "area": 53.33,
-    "coeficiente": 0.2202,
-    "pin": "5400",
-    "token": "ffb43b8f99"
-  },
-  {
     "id": "10-604",
-    "torre": 10,
+    "torre": "10",
     "apto": "604",
     "nombreCompleto": "Torre 10 - Apto 604",
     "area": 53.33,
@@ -2401,7 +2271,7 @@
   },
   {
     "id": "11-101",
-    "torre": 11,
+    "torre": "11",
     "apto": "101",
     "nombreCompleto": "Torre 11 - Apto 101",
     "area": 45.57,
@@ -2411,7 +2281,7 @@
   },
   {
     "id": "11-102",
-    "torre": 11,
+    "torre": "11",
     "apto": "102",
     "nombreCompleto": "Torre 11 - Apto 102",
     "area": 45.37,
@@ -2421,7 +2291,7 @@
   },
   {
     "id": "11-103",
-    "torre": 11,
+    "torre": "11",
     "apto": "103",
     "nombreCompleto": "Torre 11 - Apto 103",
     "area": 45.18,
@@ -2431,7 +2301,7 @@
   },
   {
     "id": "11-104",
-    "torre": 11,
+    "torre": "11",
     "apto": "104",
     "nombreCompleto": "Torre 11 - Apto 104",
     "area": 45.04,
@@ -2440,18 +2310,8 @@
     "token": "240a37e6a6"
   },
   {
-    "id": "11-201",
-    "torre": 11,
-    "apto": "201",
-    "nombreCompleto": "Torre 11 - Apto 201",
-    "area": 45.37,
-    "coeficiente": 0.1874,
-    "pin": "7448",
-    "token": "c729ebe7fb"
-  },
-  {
     "id": "11-202",
-    "torre": 11,
+    "torre": "11",
     "apto": "202",
     "nombreCompleto": "Torre 11 - Apto 202",
     "area": 45.37,
@@ -2461,7 +2321,7 @@
   },
   {
     "id": "11-203",
-    "torre": 11,
+    "torre": "11",
     "apto": "203",
     "nombreCompleto": "Torre 11 - Apto 203",
     "area": 45.18,
@@ -2471,7 +2331,7 @@
   },
   {
     "id": "11-204",
-    "torre": 11,
+    "torre": "11",
     "apto": "204",
     "nombreCompleto": "Torre 11 - Apto 204",
     "area": 45.18,
@@ -2481,7 +2341,7 @@
   },
   {
     "id": "11-301",
-    "torre": 11,
+    "torre": "11",
     "apto": "301",
     "nombreCompleto": "Torre 11 - Apto 301",
     "area": 45.37,
@@ -2490,18 +2350,8 @@
     "token": "703b58a702"
   },
   {
-    "id": "11-302",
-    "torre": 11,
-    "apto": "302",
-    "nombreCompleto": "Torre 11 - Apto 302",
-    "area": 45.37,
-    "coeficiente": 0.1874,
-    "pin": "6628",
-    "token": "bc5130ab1b"
-  },
-  {
     "id": "11-303",
-    "torre": 11,
+    "torre": "11",
     "apto": "303",
     "nombreCompleto": "Torre 11 - Apto 303",
     "area": 45.18,
@@ -2511,7 +2361,7 @@
   },
   {
     "id": "11-304",
-    "torre": 11,
+    "torre": "11",
     "apto": "304",
     "nombreCompleto": "Torre 11 - Apto 304",
     "area": 45.18,
@@ -2521,7 +2371,7 @@
   },
   {
     "id": "11-401",
-    "torre": 11,
+    "torre": "11",
     "apto": "401",
     "nombreCompleto": "Torre 11 - Apto 401",
     "area": 45.37,
@@ -2531,7 +2381,7 @@
   },
   {
     "id": "11-402",
-    "torre": 11,
+    "torre": "11",
     "apto": "402",
     "nombreCompleto": "Torre 11 - Apto 402",
     "area": 45.37,
@@ -2541,7 +2391,7 @@
   },
   {
     "id": "11-403",
-    "torre": 11,
+    "torre": "11",
     "apto": "403",
     "nombreCompleto": "Torre 11 - Apto 403",
     "area": 45.18,
@@ -2551,7 +2401,7 @@
   },
   {
     "id": "11-404",
-    "torre": 11,
+    "torre": "11",
     "apto": "404",
     "nombreCompleto": "Torre 11 - Apto 404",
     "area": 45.18,
@@ -2561,7 +2411,7 @@
   },
   {
     "id": "11-501",
-    "torre": 11,
+    "torre": "11",
     "apto": "501",
     "nombreCompleto": "Torre 11 - Apto 501",
     "area": 45.37,
@@ -2571,7 +2421,7 @@
   },
   {
     "id": "11-502",
-    "torre": 11,
+    "torre": "11",
     "apto": "502",
     "nombreCompleto": "Torre 11 - Apto 502",
     "area": 45.37,
@@ -2581,7 +2431,7 @@
   },
   {
     "id": "11-503",
-    "torre": 11,
+    "torre": "11",
     "apto": "503",
     "nombreCompleto": "Torre 11 - Apto 503",
     "area": 45.18,
@@ -2591,7 +2441,7 @@
   },
   {
     "id": "11-504",
-    "torre": 11,
+    "torre": "11",
     "apto": "504",
     "nombreCompleto": "Torre 11 - Apto 504",
     "area": 45.18,
@@ -2601,7 +2451,7 @@
   },
   {
     "id": "11-601",
-    "torre": 11,
+    "torre": "11",
     "apto": "601",
     "nombreCompleto": "Torre 11 - Apto 601",
     "area": 45.37,
@@ -2611,7 +2461,7 @@
   },
   {
     "id": "11-602",
-    "torre": 11,
+    "torre": "11",
     "apto": "602",
     "nombreCompleto": "Torre 11 - Apto 602",
     "area": 45.37,
@@ -2621,7 +2471,7 @@
   },
   {
     "id": "11-603",
-    "torre": 11,
+    "torre": "11",
     "apto": "603",
     "nombreCompleto": "Torre 11 - Apto 603",
     "area": 45.18,
@@ -2631,7 +2481,7 @@
   },
   {
     "id": "11-604",
-    "torre": 11,
+    "torre": "11",
     "apto": "604",
     "nombreCompleto": "Torre 11 - Apto 604",
     "area": 45.18,
@@ -2641,7 +2491,7 @@
   },
   {
     "id": "12-101",
-    "torre": 12,
+    "torre": "12",
     "apto": "101",
     "nombreCompleto": "Torre 12 - Apto 101",
     "area": 45.38,
@@ -2651,7 +2501,7 @@
   },
   {
     "id": "12-102",
-    "torre": 12,
+    "torre": "12",
     "apto": "102",
     "nombreCompleto": "Torre 12 - Apto 102",
     "area": 45.18,
@@ -2661,7 +2511,7 @@
   },
   {
     "id": "12-103",
-    "torre": 12,
+    "torre": "12",
     "apto": "103",
     "nombreCompleto": "Torre 12 - Apto 103",
     "area": 45.18,
@@ -2671,7 +2521,7 @@
   },
   {
     "id": "12-104",
-    "torre": 12,
+    "torre": "12",
     "apto": "104",
     "nombreCompleto": "Torre 12 - Apto 104",
     "area": 45.04,
@@ -2681,7 +2531,7 @@
   },
   {
     "id": "12-201",
-    "torre": 12,
+    "torre": "12",
     "apto": "201",
     "nombreCompleto": "Torre 12 - Apto 201",
     "area": 45.18,
@@ -2691,7 +2541,7 @@
   },
   {
     "id": "12-202",
-    "torre": 12,
+    "torre": "12",
     "apto": "202",
     "nombreCompleto": "Torre 12 - Apto 202",
     "area": 45.18,
@@ -2701,7 +2551,7 @@
   },
   {
     "id": "12-203",
-    "torre": 12,
+    "torre": "12",
     "apto": "203",
     "nombreCompleto": "Torre 12 - Apto 203",
     "area": 45.18,
@@ -2711,7 +2561,7 @@
   },
   {
     "id": "12-204",
-    "torre": 12,
+    "torre": "12",
     "apto": "204",
     "nombreCompleto": "Torre 12 - Apto 204",
     "area": 45.18,
@@ -2721,7 +2571,7 @@
   },
   {
     "id": "12-301",
-    "torre": 12,
+    "torre": "12",
     "apto": "301",
     "nombreCompleto": "Torre 12 - Apto 301",
     "area": 45.18,
@@ -2731,7 +2581,7 @@
   },
   {
     "id": "12-302",
-    "torre": 12,
+    "torre": "12",
     "apto": "302",
     "nombreCompleto": "Torre 12 - Apto 302",
     "area": 45.18,
@@ -2741,7 +2591,7 @@
   },
   {
     "id": "12-303",
-    "torre": 12,
+    "torre": "12",
     "apto": "303",
     "nombreCompleto": "Torre 12 - Apto 303",
     "area": 45.18,
@@ -2751,7 +2601,7 @@
   },
   {
     "id": "12-304",
-    "torre": 12,
+    "torre": "12",
     "apto": "304",
     "nombreCompleto": "Torre 12 - Apto 304",
     "area": 45.18,
@@ -2761,7 +2611,7 @@
   },
   {
     "id": "12-401",
-    "torre": 12,
+    "torre": "12",
     "apto": "401",
     "nombreCompleto": "Torre 12 - Apto 401",
     "area": 45.18,
@@ -2771,7 +2621,7 @@
   },
   {
     "id": "12-402",
-    "torre": 12,
+    "torre": "12",
     "apto": "402",
     "nombreCompleto": "Torre 12 - Apto 402",
     "area": 45.18,
@@ -2781,7 +2631,7 @@
   },
   {
     "id": "12-403",
-    "torre": 12,
+    "torre": "12",
     "apto": "403",
     "nombreCompleto": "Torre 12 - Apto 403",
     "area": 45.18,
@@ -2791,7 +2641,7 @@
   },
   {
     "id": "12-404",
-    "torre": 12,
+    "torre": "12",
     "apto": "404",
     "nombreCompleto": "Torre 12 - Apto 404",
     "area": 45.18,
@@ -2801,7 +2651,7 @@
   },
   {
     "id": "12-501",
-    "torre": 12,
+    "torre": "12",
     "apto": "501",
     "nombreCompleto": "Torre 12 - Apto 501",
     "area": 45.18,
@@ -2811,7 +2661,7 @@
   },
   {
     "id": "12-502",
-    "torre": 12,
+    "torre": "12",
     "apto": "502",
     "nombreCompleto": "Torre 12 - Apto 502",
     "area": 45.18,
@@ -2820,18 +2670,8 @@
     "token": "8f74fa9c89"
   },
   {
-    "id": "12-503",
-    "torre": 12,
-    "apto": "503",
-    "nombreCompleto": "Torre 12 - Apto 503",
-    "area": 45.18,
-    "coeficiente": 0.1866,
-    "pin": "6092",
-    "token": "4cc1503064"
-  },
-  {
     "id": "12-504",
-    "torre": 12,
+    "torre": "12",
     "apto": "504",
     "nombreCompleto": "Torre 12 - Apto 504",
     "area": 45.18,
@@ -2841,7 +2681,7 @@
   },
   {
     "id": "12-601",
-    "torre": 12,
+    "torre": "12",
     "apto": "601",
     "nombreCompleto": "Torre 12 - Apto 601",
     "area": 45.18,
@@ -2850,18 +2690,8 @@
     "token": "3ac9d2dc03"
   },
   {
-    "id": "12-602",
-    "torre": 12,
-    "apto": "602",
-    "nombreCompleto": "Torre 12 - Apto 602",
-    "area": 45.18,
-    "coeficiente": 0.1866,
-    "pin": "6156",
-    "token": "6edaba677b"
-  },
-  {
     "id": "12-603",
-    "torre": 12,
+    "torre": "12",
     "apto": "603",
     "nombreCompleto": "Torre 12 - Apto 603",
     "area": 45.18,
@@ -2870,18 +2700,8 @@
     "token": "60e8f2427d"
   },
   {
-    "id": "12-604",
-    "torre": 12,
-    "apto": "604",
-    "nombreCompleto": "Torre 12 - Apto 604",
-    "area": 45.18,
-    "coeficiente": 0.1866,
-    "pin": "8778",
-    "token": "1c09c4521b"
-  },
-  {
     "id": "13-101",
-    "torre": 13,
+    "torre": "13",
     "apto": "101",
     "nombreCompleto": "Torre 13 - Apto 101",
     "area": 45.38,
@@ -2891,7 +2711,7 @@
   },
   {
     "id": "13-102",
-    "torre": 13,
+    "torre": "13",
     "apto": "102",
     "nombreCompleto": "Torre 13 - Apto 102",
     "area": 45.18,
@@ -2901,7 +2721,7 @@
   },
   {
     "id": "13-103",
-    "torre": 13,
+    "torre": "13",
     "apto": "103",
     "nombreCompleto": "Torre 13 - Apto 103",
     "area": 45.37,
@@ -2910,18 +2730,8 @@
     "token": "76cdbbf48d"
   },
   {
-    "id": "13-104",
-    "torre": 13,
-    "apto": "104",
-    "nombreCompleto": "Torre 13 - Apto 104",
-    "area": 45.23,
-    "coeficiente": 0.1868,
-    "pin": "8588",
-    "token": "3f3dc93832"
-  },
-  {
     "id": "13-201",
-    "torre": 13,
+    "torre": "13",
     "apto": "201",
     "nombreCompleto": "Torre 13 - Apto 201",
     "area": 45.18,
@@ -2931,7 +2741,7 @@
   },
   {
     "id": "13-202",
-    "torre": 13,
+    "torre": "13",
     "apto": "202",
     "nombreCompleto": "Torre 13 - Apto 202",
     "area": 45.18,
@@ -2941,7 +2751,7 @@
   },
   {
     "id": "13-203",
-    "torre": 13,
+    "torre": "13",
     "apto": "203",
     "nombreCompleto": "Torre 13 - Apto 203",
     "area": 45.37,
@@ -2951,7 +2761,7 @@
   },
   {
     "id": "13-204",
-    "torre": 13,
+    "torre": "13",
     "apto": "204",
     "nombreCompleto": "Torre 13 - Apto 204",
     "area": 45.37,
@@ -2961,7 +2771,7 @@
   },
   {
     "id": "13-301",
-    "torre": 13,
+    "torre": "13",
     "apto": "301",
     "nombreCompleto": "Torre 13 - Apto 301",
     "area": 45.18,
@@ -2971,7 +2781,7 @@
   },
   {
     "id": "13-302",
-    "torre": 13,
+    "torre": "13",
     "apto": "302",
     "nombreCompleto": "Torre 13 - Apto 302",
     "area": 45.18,
@@ -2981,7 +2791,7 @@
   },
   {
     "id": "13-303",
-    "torre": 13,
+    "torre": "13",
     "apto": "303",
     "nombreCompleto": "Torre 13 - Apto 303",
     "area": 45.37,
@@ -2991,7 +2801,7 @@
   },
   {
     "id": "13-304",
-    "torre": 13,
+    "torre": "13",
     "apto": "304",
     "nombreCompleto": "Torre 13 - Apto 304",
     "area": 45.37,
@@ -3001,7 +2811,7 @@
   },
   {
     "id": "13-401",
-    "torre": 13,
+    "torre": "13",
     "apto": "401",
     "nombreCompleto": "Torre 13 - Apto 401",
     "area": 45.18,
@@ -3011,7 +2821,7 @@
   },
   {
     "id": "13-402",
-    "torre": 13,
+    "torre": "13",
     "apto": "402",
     "nombreCompleto": "Torre 13 - Apto 402",
     "area": 45.18,
@@ -3021,7 +2831,7 @@
   },
   {
     "id": "13-403",
-    "torre": 13,
+    "torre": "13",
     "apto": "403",
     "nombreCompleto": "Torre 13 - Apto 403",
     "area": 45.37,
@@ -3031,7 +2841,7 @@
   },
   {
     "id": "13-404",
-    "torre": 13,
+    "torre": "13",
     "apto": "404",
     "nombreCompleto": "Torre 13 - Apto 404",
     "area": 45.37,
@@ -3041,7 +2851,7 @@
   },
   {
     "id": "13-501",
-    "torre": 13,
+    "torre": "13",
     "apto": "501",
     "nombreCompleto": "Torre 13 - Apto 501",
     "area": 45.18,
@@ -3051,7 +2861,7 @@
   },
   {
     "id": "13-502",
-    "torre": 13,
+    "torre": "13",
     "apto": "502",
     "nombreCompleto": "Torre 13 - Apto 502",
     "area": 45.18,
@@ -3061,7 +2871,7 @@
   },
   {
     "id": "13-503",
-    "torre": 13,
+    "torre": "13",
     "apto": "503",
     "nombreCompleto": "Torre 13 - Apto 503",
     "area": 45.37,
@@ -3071,7 +2881,7 @@
   },
   {
     "id": "13-504",
-    "torre": 13,
+    "torre": "13",
     "apto": "504",
     "nombreCompleto": "Torre 13 - Apto 504",
     "area": 45.37,
@@ -3081,7 +2891,7 @@
   },
   {
     "id": "13-601",
-    "torre": 13,
+    "torre": "13",
     "apto": "601",
     "nombreCompleto": "Torre 13 - Apto 601",
     "area": 45.18,
@@ -3091,7 +2901,7 @@
   },
   {
     "id": "13-602",
-    "torre": 13,
+    "torre": "13",
     "apto": "602",
     "nombreCompleto": "Torre 13 - Apto 602",
     "area": 45.18,
@@ -3100,18 +2910,8 @@
     "token": "dce4a3ecce"
   },
   {
-    "id": "13-603",
-    "torre": 13,
-    "apto": "603",
-    "nombreCompleto": "Torre 13 - Apto 603",
-    "area": 45.37,
-    "coeficiente": 0.1874,
-    "pin": "5808",
-    "token": "87df4f24b9"
-  },
-  {
     "id": "13-604",
-    "torre": 13,
+    "torre": "13",
     "apto": "604",
     "nombreCompleto": "Torre 13 - Apto 604",
     "area": 45.37,
@@ -3121,7 +2921,7 @@
   },
   {
     "id": "14-101",
-    "torre": 14,
+    "torre": "14",
     "apto": "101",
     "nombreCompleto": "Torre 14 - Apto 101",
     "area": 53.56,
@@ -3131,7 +2931,7 @@
   },
   {
     "id": "14-102",
-    "torre": 14,
+    "torre": "14",
     "apto": "102",
     "nombreCompleto": "Torre 14 - Apto 102",
     "area": 53.33,
@@ -3141,7 +2941,7 @@
   },
   {
     "id": "14-103",
-    "torre": 14,
+    "torre": "14",
     "apto": "103",
     "nombreCompleto": "Torre 14 - Apto 103",
     "area": 53.14,
@@ -3151,7 +2951,7 @@
   },
   {
     "id": "14-104",
-    "torre": 14,
+    "torre": "14",
     "apto": "104",
     "nombreCompleto": "Torre 14 - Apto 104",
     "area": 45.79,
@@ -3161,7 +2961,7 @@
   },
   {
     "id": "14-201",
-    "torre": 14,
+    "torre": "14",
     "apto": "201",
     "nombreCompleto": "Torre 14 - Apto 201",
     "area": 53.33,
@@ -3171,7 +2971,7 @@
   },
   {
     "id": "14-202",
-    "torre": 14,
+    "torre": "14",
     "apto": "202",
     "nombreCompleto": "Torre 14 - Apto 202",
     "area": 53.33,
@@ -3181,7 +2981,7 @@
   },
   {
     "id": "14-203",
-    "torre": 14,
+    "torre": "14",
     "apto": "203",
     "nombreCompleto": "Torre 14 - Apto 203",
     "area": 53.14,
@@ -3191,7 +2991,7 @@
   },
   {
     "id": "14-204",
-    "torre": 14,
+    "torre": "14",
     "apto": "204",
     "nombreCompleto": "Torre 14 - Apto 204",
     "area": 53.14,
@@ -3201,7 +3001,7 @@
   },
   {
     "id": "14-301",
-    "torre": 14,
+    "torre": "14",
     "apto": "301",
     "nombreCompleto": "Torre 14 - Apto 301",
     "area": 53.33,
@@ -3210,28 +3010,8 @@
     "token": "0deeee54bb"
   },
   {
-    "id": "14-302",
-    "torre": 14,
-    "apto": "302",
-    "nombreCompleto": "Torre 14 - Apto 302",
-    "area": 53.33,
-    "coeficiente": 0.2202,
-    "pin": "4998",
-    "token": "54df769248"
-  },
-  {
-    "id": "14-303",
-    "torre": 14,
-    "apto": "303",
-    "nombreCompleto": "Torre 14 - Apto 303",
-    "area": 53.14,
-    "coeficiente": 0.2194,
-    "pin": "8344",
-    "token": "c338d1206b"
-  },
-  {
     "id": "14-304",
-    "torre": 14,
+    "torre": "14",
     "apto": "304",
     "nombreCompleto": "Torre 14 - Apto 304",
     "area": 53.14,
@@ -3241,7 +3021,7 @@
   },
   {
     "id": "14-401",
-    "torre": 14,
+    "torre": "14",
     "apto": "401",
     "nombreCompleto": "Torre 14 - Apto 401",
     "area": 53.33,
@@ -3251,7 +3031,7 @@
   },
   {
     "id": "14-402",
-    "torre": 14,
+    "torre": "14",
     "apto": "402",
     "nombreCompleto": "Torre 14 - Apto 402",
     "area": 53.33,
@@ -3261,7 +3041,7 @@
   },
   {
     "id": "14-403",
-    "torre": 14,
+    "torre": "14",
     "apto": "403",
     "nombreCompleto": "Torre 14 - Apto 403",
     "area": 53.14,
@@ -3271,7 +3051,7 @@
   },
   {
     "id": "14-404",
-    "torre": 14,
+    "torre": "14",
     "apto": "404",
     "nombreCompleto": "Torre 14 - Apto 404",
     "area": 53.14,
@@ -3281,7 +3061,7 @@
   },
   {
     "id": "14-501",
-    "torre": 14,
+    "torre": "14",
     "apto": "501",
     "nombreCompleto": "Torre 14 - Apto 501",
     "area": 53.33,
@@ -3291,7 +3071,7 @@
   },
   {
     "id": "14-502",
-    "torre": 14,
+    "torre": "14",
     "apto": "502",
     "nombreCompleto": "Torre 14 - Apto 502",
     "area": 53.33,
@@ -3301,7 +3081,7 @@
   },
   {
     "id": "14-503",
-    "torre": 14,
+    "torre": "14",
     "apto": "503",
     "nombreCompleto": "Torre 14 - Apto 503",
     "area": 53.14,
@@ -3311,7 +3091,7 @@
   },
   {
     "id": "14-504",
-    "torre": 14,
+    "torre": "14",
     "apto": "504",
     "nombreCompleto": "Torre 14 - Apto 504",
     "area": 53.14,
@@ -3321,7 +3101,7 @@
   },
   {
     "id": "15-101",
-    "torre": 15,
+    "torre": "15",
     "apto": "101",
     "nombreCompleto": "Torre 15 - Apto 101",
     "area": 53.38,
@@ -3331,7 +3111,7 @@
   },
   {
     "id": "15-102",
-    "torre": 15,
+    "torre": "15",
     "apto": "102",
     "nombreCompleto": "Torre 15 - Apto 102",
     "area": 53.14,
@@ -3341,7 +3121,7 @@
   },
   {
     "id": "15-103",
-    "torre": 15,
+    "torre": "15",
     "apto": "103",
     "nombreCompleto": "Torre 15 - Apto 103",
     "area": 53.14,
@@ -3351,7 +3131,7 @@
   },
   {
     "id": "15-104",
-    "torre": 15,
+    "torre": "15",
     "apto": "104",
     "nombreCompleto": "Torre 15 - Apto 104",
     "area": 45.79,
@@ -3361,7 +3141,7 @@
   },
   {
     "id": "15-201",
-    "torre": 15,
+    "torre": "15",
     "apto": "201",
     "nombreCompleto": "Torre 15 - Apto 201",
     "area": 53.14,
@@ -3371,7 +3151,7 @@
   },
   {
     "id": "15-202",
-    "torre": 15,
+    "torre": "15",
     "apto": "202",
     "nombreCompleto": "Torre 15 - Apto 202",
     "area": 53.14,
@@ -3380,18 +3160,8 @@
     "token": "c0a0a6c00a"
   },
   {
-    "id": "15-203",
-    "torre": 15,
-    "apto": "203",
-    "nombreCompleto": "Torre 15 - Apto 203",
-    "area": 53.14,
-    "coeficiente": 0.2194,
-    "pin": "2111",
-    "token": "b8b1fb4f82"
-  },
-  {
     "id": "15-204",
-    "torre": 15,
+    "torre": "15",
     "apto": "204",
     "nombreCompleto": "Torre 15 - Apto 204",
     "area": 53.14,
@@ -3401,7 +3171,7 @@
   },
   {
     "id": "15-301",
-    "torre": 15,
+    "torre": "15",
     "apto": "301",
     "nombreCompleto": "Torre 15 - Apto 301",
     "area": 53.14,
@@ -3411,7 +3181,7 @@
   },
   {
     "id": "15-302",
-    "torre": 15,
+    "torre": "15",
     "apto": "302",
     "nombreCompleto": "Torre 15 - Apto 302",
     "area": 53.14,
@@ -3421,7 +3191,7 @@
   },
   {
     "id": "15-303",
-    "torre": 15,
+    "torre": "15",
     "apto": "303",
     "nombreCompleto": "Torre 15 - Apto 303",
     "area": 53.14,
@@ -3431,7 +3201,7 @@
   },
   {
     "id": "15-304",
-    "torre": 15,
+    "torre": "15",
     "apto": "304",
     "nombreCompleto": "Torre 15 - Apto 304",
     "area": 53.14,
@@ -3441,7 +3211,7 @@
   },
   {
     "id": "15-401",
-    "torre": 15,
+    "torre": "15",
     "apto": "401",
     "nombreCompleto": "Torre 15 - Apto 401",
     "area": 53.14,
@@ -3451,7 +3221,7 @@
   },
   {
     "id": "15-402",
-    "torre": 15,
+    "torre": "15",
     "apto": "402",
     "nombreCompleto": "Torre 15 - Apto 402",
     "area": 53.14,
@@ -3461,7 +3231,7 @@
   },
   {
     "id": "15-403",
-    "torre": 15,
+    "torre": "15",
     "apto": "403",
     "nombreCompleto": "Torre 15 - Apto 403",
     "area": 53.14,
@@ -3471,7 +3241,7 @@
   },
   {
     "id": "15-404",
-    "torre": 15,
+    "torre": "15",
     "apto": "404",
     "nombreCompleto": "Torre 15 - Apto 404",
     "area": 53.14,
@@ -3481,7 +3251,7 @@
   },
   {
     "id": "15-501",
-    "torre": 15,
+    "torre": "15",
     "apto": "501",
     "nombreCompleto": "Torre 15 - Apto 501",
     "area": 53.14,
@@ -3490,18 +3260,8 @@
     "token": "701bb40e4c"
   },
   {
-    "id": "15-502",
-    "torre": 15,
-    "apto": "502",
-    "nombreCompleto": "Torre 15 - Apto 502",
-    "area": 53.14,
-    "coeficiente": 0.2194,
-    "pin": "2953",
-    "token": "8a9b366fcf"
-  },
-  {
     "id": "15-503",
-    "torre": 15,
+    "torre": "15",
     "apto": "503",
     "nombreCompleto": "Torre 15 - Apto 503",
     "area": 53.14,
@@ -3510,18 +3270,8 @@
     "token": "77f7d24d6b"
   },
   {
-    "id": "15-504",
-    "torre": 15,
-    "apto": "504",
-    "nombreCompleto": "Torre 15 - Apto 504",
-    "area": 53.14,
-    "coeficiente": 0.2194,
-    "pin": "4618",
-    "token": "51521beeb4"
-  },
-  {
     "id": "16-101",
-    "torre": 16,
+    "torre": "16",
     "apto": "101",
     "nombreCompleto": "Torre 16 - Apto 101",
     "area": 53.38,
@@ -3530,18 +3280,8 @@
     "token": "aca8ea0212"
   },
   {
-    "id": "16-102",
-    "torre": 16,
-    "apto": "102",
-    "nombreCompleto": "Torre 16 - Apto 102",
-    "area": 53.14,
-    "coeficiente": 0.2194,
-    "pin": "6932",
-    "token": "fe3b6773ab"
-  },
-  {
     "id": "16-103",
-    "torre": 16,
+    "torre": "16",
     "apto": "103",
     "nombreCompleto": "Torre 16 - Apto 103",
     "area": 53.33,
@@ -3551,7 +3291,7 @@
   },
   {
     "id": "16-104",
-    "torre": 16,
+    "torre": "16",
     "apto": "104",
     "nombreCompleto": "Torre 16 - Apto 104",
     "area": 45.97,
@@ -3561,7 +3301,7 @@
   },
   {
     "id": "16-201",
-    "torre": 16,
+    "torre": "16",
     "apto": "201",
     "nombreCompleto": "Torre 16 - Apto 201",
     "area": 53.14,
@@ -3571,7 +3311,7 @@
   },
   {
     "id": "16-202",
-    "torre": 16,
+    "torre": "16",
     "apto": "202",
     "nombreCompleto": "Torre 16 - Apto 202",
     "area": 53.14,
@@ -3581,7 +3321,7 @@
   },
   {
     "id": "16-203",
-    "torre": 16,
+    "torre": "16",
     "apto": "203",
     "nombreCompleto": "Torre 16 - Apto 203",
     "area": 53.33,
@@ -3590,18 +3330,8 @@
     "token": "fc9cfeace4"
   },
   {
-    "id": "16-204",
-    "torre": 16,
-    "apto": "204",
-    "nombreCompleto": "Torre 16 - Apto 204",
-    "area": 53.33,
-    "coeficiente": 0.2202,
-    "pin": "6872",
-    "token": "ed7513f74b"
-  },
-  {
     "id": "16-301",
-    "torre": 16,
+    "torre": "16",
     "apto": "301",
     "nombreCompleto": "Torre 16 - Apto 301",
     "area": 53.14,
@@ -3611,7 +3341,7 @@
   },
   {
     "id": "16-302",
-    "torre": 16,
+    "torre": "16",
     "apto": "302",
     "nombreCompleto": "Torre 16 - Apto 302",
     "area": 53.14,
@@ -3621,7 +3351,7 @@
   },
   {
     "id": "16-303",
-    "torre": 16,
+    "torre": "16",
     "apto": "303",
     "nombreCompleto": "Torre 16 - Apto 303",
     "area": 53.33,
@@ -3631,7 +3361,7 @@
   },
   {
     "id": "16-304",
-    "torre": 16,
+    "torre": "16",
     "apto": "304",
     "nombreCompleto": "Torre 16 - Apto 304",
     "area": 53.33,
@@ -3641,7 +3371,7 @@
   },
   {
     "id": "16-401",
-    "torre": 16,
+    "torre": "16",
     "apto": "401",
     "nombreCompleto": "Torre 16 - Apto 401",
     "area": 53.14,
@@ -3651,7 +3381,7 @@
   },
   {
     "id": "16-402",
-    "torre": 16,
+    "torre": "16",
     "apto": "402",
     "nombreCompleto": "Torre 16 - Apto 402",
     "area": 53.14,
@@ -3661,7 +3391,7 @@
   },
   {
     "id": "16-403",
-    "torre": 16,
+    "torre": "16",
     "apto": "403",
     "nombreCompleto": "Torre 16 - Apto 403",
     "area": 53.33,
@@ -3671,7 +3401,7 @@
   },
   {
     "id": "16-404",
-    "torre": 16,
+    "torre": "16",
     "apto": "404",
     "nombreCompleto": "Torre 16 - Apto 404",
     "area": 53.33,
@@ -3681,7 +3411,7 @@
   },
   {
     "id": "16-501",
-    "torre": 16,
+    "torre": "16",
     "apto": "501",
     "nombreCompleto": "Torre 16 - Apto 501",
     "area": 53.14,
@@ -3691,7 +3421,7 @@
   },
   {
     "id": "16-502",
-    "torre": 16,
+    "torre": "16",
     "apto": "502",
     "nombreCompleto": "Torre 16 - Apto 502",
     "area": 53.14,
@@ -3701,7 +3431,7 @@
   },
   {
     "id": "16-503",
-    "torre": 16,
+    "torre": "16",
     "apto": "503",
     "nombreCompleto": "Torre 16 - Apto 503",
     "area": 53.33,
@@ -3711,7 +3441,7 @@
   },
   {
     "id": "16-504",
-    "torre": 16,
+    "torre": "16",
     "apto": "504",
     "nombreCompleto": "Torre 16 - Apto 504",
     "area": 53.33,
@@ -3721,7 +3451,7 @@
   },
   {
     "id": "17-101",
-    "torre": 17,
+    "torre": "17",
     "apto": "101",
     "nombreCompleto": "Torre 17 - Apto 101",
     "area": 53.56,
@@ -3731,7 +3461,7 @@
   },
   {
     "id": "17-102",
-    "torre": 17,
+    "torre": "17",
     "apto": "102",
     "nombreCompleto": "Torre 17 - Apto 102",
     "area": 53.33,
@@ -3741,7 +3471,7 @@
   },
   {
     "id": "17-103",
-    "torre": 17,
+    "torre": "17",
     "apto": "103",
     "nombreCompleto": "Torre 17 - Apto 103",
     "area": 53.14,
@@ -3751,7 +3481,7 @@
   },
   {
     "id": "17-104",
-    "torre": 17,
+    "torre": "17",
     "apto": "104",
     "nombreCompleto": "Torre 17 - Apto 104",
     "area": 45.79,
@@ -3761,7 +3491,7 @@
   },
   {
     "id": "17-201",
-    "torre": 17,
+    "torre": "17",
     "apto": "201",
     "nombreCompleto": "Torre 17 - Apto 201",
     "area": 53.33,
@@ -3771,7 +3501,7 @@
   },
   {
     "id": "17-202",
-    "torre": 17,
+    "torre": "17",
     "apto": "202",
     "nombreCompleto": "Torre 17 - Apto 202",
     "area": 53.33,
@@ -3781,7 +3511,7 @@
   },
   {
     "id": "17-203",
-    "torre": 17,
+    "torre": "17",
     "apto": "203",
     "nombreCompleto": "Torre 17 - Apto 203",
     "area": 53.14,
@@ -3791,7 +3521,7 @@
   },
   {
     "id": "17-204",
-    "torre": 17,
+    "torre": "17",
     "apto": "204",
     "nombreCompleto": "Torre 17 - Apto 204",
     "area": 53.14,
@@ -3801,7 +3531,7 @@
   },
   {
     "id": "17-301",
-    "torre": 17,
+    "torre": "17",
     "apto": "301",
     "nombreCompleto": "Torre 17 - Apto 301",
     "area": 53.33,
@@ -3811,7 +3541,7 @@
   },
   {
     "id": "17-302",
-    "torre": 17,
+    "torre": "17",
     "apto": "302",
     "nombreCompleto": "Torre 17 - Apto 302",
     "area": 53.33,
@@ -3821,7 +3551,7 @@
   },
   {
     "id": "17-303",
-    "torre": 17,
+    "torre": "17",
     "apto": "303",
     "nombreCompleto": "Torre 17 - Apto 303",
     "area": 53.14,
@@ -3831,7 +3561,7 @@
   },
   {
     "id": "17-304",
-    "torre": 17,
+    "torre": "17",
     "apto": "304",
     "nombreCompleto": "Torre 17 - Apto 304",
     "area": 53.14,
@@ -3841,7 +3571,7 @@
   },
   {
     "id": "17-401",
-    "torre": 17,
+    "torre": "17",
     "apto": "401",
     "nombreCompleto": "Torre 17 - Apto 401",
     "area": 53.33,
@@ -3851,7 +3581,7 @@
   },
   {
     "id": "17-402",
-    "torre": 17,
+    "torre": "17",
     "apto": "402",
     "nombreCompleto": "Torre 17 - Apto 402",
     "area": 53.33,
@@ -3861,7 +3591,7 @@
   },
   {
     "id": "17-403",
-    "torre": 17,
+    "torre": "17",
     "apto": "403",
     "nombreCompleto": "Torre 17 - Apto 403",
     "area": 53.14,
@@ -3871,7 +3601,7 @@
   },
   {
     "id": "17-404",
-    "torre": 17,
+    "torre": "17",
     "apto": "404",
     "nombreCompleto": "Torre 17 - Apto 404",
     "area": 53.14,
@@ -3881,7 +3611,7 @@
   },
   {
     "id": "17-501",
-    "torre": 17,
+    "torre": "17",
     "apto": "501",
     "nombreCompleto": "Torre 17 - Apto 501",
     "area": 53.33,
@@ -3891,7 +3621,7 @@
   },
   {
     "id": "17-502",
-    "torre": 17,
+    "torre": "17",
     "apto": "502",
     "nombreCompleto": "Torre 17 - Apto 502",
     "area": 53.33,
@@ -3901,7 +3631,7 @@
   },
   {
     "id": "17-503",
-    "torre": 17,
+    "torre": "17",
     "apto": "503",
     "nombreCompleto": "Torre 17 - Apto 503",
     "area": 53.14,
@@ -3911,7 +3641,7 @@
   },
   {
     "id": "17-504",
-    "torre": 17,
+    "torre": "17",
     "apto": "504",
     "nombreCompleto": "Torre 17 - Apto 504",
     "area": 53.14,
@@ -3921,7 +3651,7 @@
   },
   {
     "id": "17-601",
-    "torre": 17,
+    "torre": "17",
     "apto": "601",
     "nombreCompleto": "Torre 17 - Apto 601",
     "area": 53.33,
@@ -3931,7 +3661,7 @@
   },
   {
     "id": "17-602",
-    "torre": 17,
+    "torre": "17",
     "apto": "602",
     "nombreCompleto": "Torre 17 - Apto 602",
     "area": 53.33,
@@ -3940,18 +3670,8 @@
     "token": "01aa78a7f0"
   },
   {
-    "id": "17-603",
-    "torre": 17,
-    "apto": "603",
-    "nombreCompleto": "Torre 17 - Apto 603",
-    "area": 53.14,
-    "coeficiente": 0.2194,
-    "pin": "9188",
-    "token": "c312bb3e9b"
-  },
-  {
     "id": "17-604",
-    "torre": 17,
+    "torre": "17",
     "apto": "604",
     "nombreCompleto": "Torre 17 - Apto 604",
     "area": 53.14,
@@ -3961,7 +3681,7 @@
   },
   {
     "id": "18-101",
-    "torre": 18,
+    "torre": "18",
     "apto": "101",
     "nombreCompleto": "Torre 18 - Apto 101",
     "area": 53.38,
@@ -3971,7 +3691,7 @@
   },
   {
     "id": "18-102",
-    "torre": 18,
+    "torre": "18",
     "apto": "102",
     "nombreCompleto": "Torre 18 - Apto 102",
     "area": 53.14,
@@ -3981,7 +3701,7 @@
   },
   {
     "id": "18-103",
-    "torre": 18,
+    "torre": "18",
     "apto": "103",
     "nombreCompleto": "Torre 18 - Apto 103",
     "area": 53.33,
@@ -3991,7 +3711,7 @@
   },
   {
     "id": "18-104",
-    "torre": 18,
+    "torre": "18",
     "apto": "104",
     "nombreCompleto": "Torre 18 - Apto 104",
     "area": 45.97,
@@ -4001,7 +3721,7 @@
   },
   {
     "id": "18-201",
-    "torre": 18,
+    "torre": "18",
     "apto": "201",
     "nombreCompleto": "Torre 18 - Apto 201",
     "area": 53.14,
@@ -4011,7 +3731,7 @@
   },
   {
     "id": "18-202",
-    "torre": 18,
+    "torre": "18",
     "apto": "202",
     "nombreCompleto": "Torre 18 - Apto 202",
     "area": 53.14,
@@ -4021,7 +3741,7 @@
   },
   {
     "id": "18-203",
-    "torre": 18,
+    "torre": "18",
     "apto": "203",
     "nombreCompleto": "Torre 18 - Apto 203",
     "area": 53.33,
@@ -4031,7 +3751,7 @@
   },
   {
     "id": "18-204",
-    "torre": 18,
+    "torre": "18",
     "apto": "204",
     "nombreCompleto": "Torre 18 - Apto 204",
     "area": 53.33,
@@ -4041,7 +3761,7 @@
   },
   {
     "id": "18-301",
-    "torre": 18,
+    "torre": "18",
     "apto": "301",
     "nombreCompleto": "Torre 18 - Apto 301",
     "area": 53.14,
@@ -4051,7 +3771,7 @@
   },
   {
     "id": "18-302",
-    "torre": 18,
+    "torre": "18",
     "apto": "302",
     "nombreCompleto": "Torre 18 - Apto 302",
     "area": 53.14,
@@ -4061,7 +3781,7 @@
   },
   {
     "id": "18-303",
-    "torre": 18,
+    "torre": "18",
     "apto": "303",
     "nombreCompleto": "Torre 18 - Apto 303",
     "area": 53.33,
@@ -4071,7 +3791,7 @@
   },
   {
     "id": "18-304",
-    "torre": 18,
+    "torre": "18",
     "apto": "304",
     "nombreCompleto": "Torre 18 - Apto 304",
     "area": 53.33,
@@ -4081,7 +3801,7 @@
   },
   {
     "id": "18-401",
-    "torre": 18,
+    "torre": "18",
     "apto": "401",
     "nombreCompleto": "Torre 18 - Apto 401",
     "area": 53.14,
@@ -4091,7 +3811,7 @@
   },
   {
     "id": "18-402",
-    "torre": 18,
+    "torre": "18",
     "apto": "402",
     "nombreCompleto": "Torre 18 - Apto 402",
     "area": 53.14,
@@ -4101,7 +3821,7 @@
   },
   {
     "id": "18-403",
-    "torre": 18,
+    "torre": "18",
     "apto": "403",
     "nombreCompleto": "Torre 18 - Apto 403",
     "area": 53.33,
@@ -4111,7 +3831,7 @@
   },
   {
     "id": "18-404",
-    "torre": 18,
+    "torre": "18",
     "apto": "404",
     "nombreCompleto": "Torre 18 - Apto 404",
     "area": 53.33,
@@ -4121,7 +3841,7 @@
   },
   {
     "id": "18-501",
-    "torre": 18,
+    "torre": "18",
     "apto": "501",
     "nombreCompleto": "Torre 18 - Apto 501",
     "area": 53.14,
@@ -4131,7 +3851,7 @@
   },
   {
     "id": "18-502",
-    "torre": 18,
+    "torre": "18",
     "apto": "502",
     "nombreCompleto": "Torre 18 - Apto 502",
     "area": 53.14,
@@ -4141,7 +3861,7 @@
   },
   {
     "id": "18-503",
-    "torre": 18,
+    "torre": "18",
     "apto": "503",
     "nombreCompleto": "Torre 18 - Apto 503",
     "area": 53.33,
@@ -4151,7 +3871,7 @@
   },
   {
     "id": "18-504",
-    "torre": 18,
+    "torre": "18",
     "apto": "504",
     "nombreCompleto": "Torre 18 - Apto 504",
     "area": 53.33,
@@ -4161,7 +3881,7 @@
   },
   {
     "id": "18-601",
-    "torre": 18,
+    "torre": "18",
     "apto": "601",
     "nombreCompleto": "Torre 18 - Apto 601",
     "area": 53.14,
@@ -4171,7 +3891,7 @@
   },
   {
     "id": "18-602",
-    "torre": 18,
+    "torre": "18",
     "apto": "602",
     "nombreCompleto": "Torre 18 - Apto 602",
     "area": 53.14,
@@ -4181,7 +3901,7 @@
   },
   {
     "id": "18-603",
-    "torre": 18,
+    "torre": "18",
     "apto": "603",
     "nombreCompleto": "Torre 18 - Apto 603",
     "area": 53.33,
@@ -4191,7 +3911,7 @@
   },
   {
     "id": "18-604",
-    "torre": 18,
+    "torre": "18",
     "apto": "604",
     "nombreCompleto": "Torre 18 - Apto 604",
     "area": 53.33,
@@ -4201,7 +3921,7 @@
   },
   {
     "id": "19-101",
-    "torre": 19,
+    "torre": "19",
     "apto": "101",
     "nombreCompleto": "Torre 19 - Apto 101",
     "area": 53.56,
@@ -4211,7 +3931,7 @@
   },
   {
     "id": "19-102",
-    "torre": 19,
+    "torre": "19",
     "apto": "102",
     "nombreCompleto": "Torre 19 - Apto 102",
     "area": 53.33,
@@ -4220,18 +3940,8 @@
     "token": "3be414f1b5"
   },
   {
-    "id": "19-103",
-    "torre": 19,
-    "apto": "103",
-    "nombreCompleto": "Torre 19 - Apto 103",
-    "area": 53.14,
-    "coeficiente": 0.2194,
-    "pin": "1506",
-    "token": "b44ba2865b"
-  },
-  {
     "id": "19-104",
-    "torre": 19,
+    "torre": "19",
     "apto": "104",
     "nombreCompleto": "Torre 19 - Apto 104",
     "area": 45.79,
@@ -4241,7 +3951,7 @@
   },
   {
     "id": "19-201",
-    "torre": 19,
+    "torre": "19",
     "apto": "201",
     "nombreCompleto": "Torre 19 - Apto 201",
     "area": 53.33,
@@ -4251,7 +3961,7 @@
   },
   {
     "id": "19-202",
-    "torre": 19,
+    "torre": "19",
     "apto": "202",
     "nombreCompleto": "Torre 19 - Apto 202",
     "area": 53.33,
@@ -4261,7 +3971,7 @@
   },
   {
     "id": "19-203",
-    "torre": 19,
+    "torre": "19",
     "apto": "203",
     "nombreCompleto": "Torre 19 - Apto 203",
     "area": 53.14,
@@ -4271,7 +3981,7 @@
   },
   {
     "id": "19-204",
-    "torre": 19,
+    "torre": "19",
     "apto": "204",
     "nombreCompleto": "Torre 19 - Apto 204",
     "area": 53.14,
@@ -4281,7 +3991,7 @@
   },
   {
     "id": "19-301",
-    "torre": 19,
+    "torre": "19",
     "apto": "301",
     "nombreCompleto": "Torre 19 - Apto 301",
     "area": 53.33,
@@ -4291,7 +4001,7 @@
   },
   {
     "id": "19-302",
-    "torre": 19,
+    "torre": "19",
     "apto": "302",
     "nombreCompleto": "Torre 19 - Apto 302",
     "area": 53.33,
@@ -4301,7 +4011,7 @@
   },
   {
     "id": "19-303",
-    "torre": 19,
+    "torre": "19",
     "apto": "303",
     "nombreCompleto": "Torre 19 - Apto 303",
     "area": 53.14,
@@ -4311,7 +4021,7 @@
   },
   {
     "id": "19-304",
-    "torre": 19,
+    "torre": "19",
     "apto": "304",
     "nombreCompleto": "Torre 19 - Apto 304",
     "area": 53.14,
@@ -4321,7 +4031,7 @@
   },
   {
     "id": "19-401",
-    "torre": 19,
+    "torre": "19",
     "apto": "401",
     "nombreCompleto": "Torre 19 - Apto 401",
     "area": 53.33,
@@ -4331,7 +4041,7 @@
   },
   {
     "id": "19-402",
-    "torre": 19,
+    "torre": "19",
     "apto": "402",
     "nombreCompleto": "Torre 19 - Apto 402",
     "area": 53.33,
@@ -4341,7 +4051,7 @@
   },
   {
     "id": "19-403",
-    "torre": 19,
+    "torre": "19",
     "apto": "403",
     "nombreCompleto": "Torre 19 - Apto 403",
     "area": 53.14,
@@ -4351,7 +4061,7 @@
   },
   {
     "id": "19-404",
-    "torre": 19,
+    "torre": "19",
     "apto": "404",
     "nombreCompleto": "Torre 19 - Apto 404",
     "area": 53.14,
@@ -4361,7 +4071,7 @@
   },
   {
     "id": "19-501",
-    "torre": 19,
+    "torre": "19",
     "apto": "501",
     "nombreCompleto": "Torre 19 - Apto 501",
     "area": 53.33,
@@ -4371,7 +4081,7 @@
   },
   {
     "id": "19-502",
-    "torre": 19,
+    "torre": "19",
     "apto": "502",
     "nombreCompleto": "Torre 19 - Apto 502",
     "area": 53.33,
@@ -4381,7 +4091,7 @@
   },
   {
     "id": "19-503",
-    "torre": 19,
+    "torre": "19",
     "apto": "503",
     "nombreCompleto": "Torre 19 - Apto 503",
     "area": 53.14,
@@ -4391,7 +4101,7 @@
   },
   {
     "id": "19-504",
-    "torre": 19,
+    "torre": "19",
     "apto": "504",
     "nombreCompleto": "Torre 19 - Apto 504",
     "area": 53.14,
@@ -4401,7 +4111,7 @@
   },
   {
     "id": "19-601",
-    "torre": 19,
+    "torre": "19",
     "apto": "601",
     "nombreCompleto": "Torre 19 - Apto 601",
     "area": 53.33,
@@ -4411,7 +4121,7 @@
   },
   {
     "id": "19-602",
-    "torre": 19,
+    "torre": "19",
     "apto": "602",
     "nombreCompleto": "Torre 19 - Apto 602",
     "area": 53.33,
@@ -4421,7 +4131,7 @@
   },
   {
     "id": "19-603",
-    "torre": 19,
+    "torre": "19",
     "apto": "603",
     "nombreCompleto": "Torre 19 - Apto 603",
     "area": 53.14,
@@ -4431,7 +4141,7 @@
   },
   {
     "id": "19-604",
-    "torre": 19,
+    "torre": "19",
     "apto": "604",
     "nombreCompleto": "Torre 19 - Apto 604",
     "area": 53.14,
@@ -4441,7 +4151,7 @@
   },
   {
     "id": "20-101",
-    "torre": 20,
+    "torre": "20",
     "apto": "101",
     "nombreCompleto": "Torre 20 - Apto 101",
     "area": 53.38,
@@ -4451,7 +4161,7 @@
   },
   {
     "id": "20-102",
-    "torre": 20,
+    "torre": "20",
     "apto": "102",
     "nombreCompleto": "Torre 20 - Apto 102",
     "area": 53.14,
@@ -4461,7 +4171,7 @@
   },
   {
     "id": "20-103",
-    "torre": 20,
+    "torre": "20",
     "apto": "103",
     "nombreCompleto": "Torre 20 - Apto 103",
     "area": 53.33,
@@ -4471,7 +4181,7 @@
   },
   {
     "id": "20-104",
-    "torre": 20,
+    "torre": "20",
     "apto": "104",
     "nombreCompleto": "Torre 20 - Apto 104",
     "area": 45.97,
@@ -4481,7 +4191,7 @@
   },
   {
     "id": "20-201",
-    "torre": 20,
+    "torre": "20",
     "apto": "201",
     "nombreCompleto": "Torre 20 - Apto 201",
     "area": 53.14,
@@ -4491,7 +4201,7 @@
   },
   {
     "id": "20-202",
-    "torre": 20,
+    "torre": "20",
     "apto": "202",
     "nombreCompleto": "Torre 20 - Apto 202",
     "area": 53.14,
@@ -4501,7 +4211,7 @@
   },
   {
     "id": "20-203",
-    "torre": 20,
+    "torre": "20",
     "apto": "203",
     "nombreCompleto": "Torre 20 - Apto 203",
     "area": 53.33,
@@ -4511,7 +4221,7 @@
   },
   {
     "id": "20-204",
-    "torre": 20,
+    "torre": "20",
     "apto": "204",
     "nombreCompleto": "Torre 20 - Apto 204",
     "area": 53.33,
@@ -4521,7 +4231,7 @@
   },
   {
     "id": "20-301",
-    "torre": 20,
+    "torre": "20",
     "apto": "301",
     "nombreCompleto": "Torre 20 - Apto 301",
     "area": 53.14,
@@ -4531,7 +4241,7 @@
   },
   {
     "id": "20-302",
-    "torre": 20,
+    "torre": "20",
     "apto": "302",
     "nombreCompleto": "Torre 20 - Apto 302",
     "area": 53.14,
@@ -4541,7 +4251,7 @@
   },
   {
     "id": "20-303",
-    "torre": 20,
+    "torre": "20",
     "apto": "303",
     "nombreCompleto": "Torre 20 - Apto 303",
     "area": 53.33,
@@ -4551,7 +4261,7 @@
   },
   {
     "id": "20-304",
-    "torre": 20,
+    "torre": "20",
     "apto": "304",
     "nombreCompleto": "Torre 20 - Apto 304",
     "area": 53.33,
@@ -4561,7 +4271,7 @@
   },
   {
     "id": "20-401",
-    "torre": 20,
+    "torre": "20",
     "apto": "401",
     "nombreCompleto": "Torre 20 - Apto 401",
     "area": 53.14,
@@ -4571,7 +4281,7 @@
   },
   {
     "id": "20-402",
-    "torre": 20,
+    "torre": "20",
     "apto": "402",
     "nombreCompleto": "Torre 20 - Apto 402",
     "area": 53.14,
@@ -4581,7 +4291,7 @@
   },
   {
     "id": "20-403",
-    "torre": 20,
+    "torre": "20",
     "apto": "403",
     "nombreCompleto": "Torre 20 - Apto 403",
     "area": 53.33,
@@ -4591,7 +4301,7 @@
   },
   {
     "id": "20-404",
-    "torre": 20,
+    "torre": "20",
     "apto": "404",
     "nombreCompleto": "Torre 20 - Apto 404",
     "area": 53.33,
@@ -4601,7 +4311,7 @@
   },
   {
     "id": "20-501",
-    "torre": 20,
+    "torre": "20",
     "apto": "501",
     "nombreCompleto": "Torre 20 - Apto 501",
     "area": 53.14,
@@ -4611,7 +4321,7 @@
   },
   {
     "id": "20-502",
-    "torre": 20,
+    "torre": "20",
     "apto": "502",
     "nombreCompleto": "Torre 20 - Apto 502",
     "area": 53.14,
@@ -4621,7 +4331,7 @@
   },
   {
     "id": "20-503",
-    "torre": 20,
+    "torre": "20",
     "apto": "503",
     "nombreCompleto": "Torre 20 - Apto 503",
     "area": 53.33,
@@ -4631,7 +4341,7 @@
   },
   {
     "id": "20-504",
-    "torre": 20,
+    "torre": "20",
     "apto": "504",
     "nombreCompleto": "Torre 20 - Apto 504",
     "area": 53.33,
@@ -4641,7 +4351,7 @@
   },
   {
     "id": "20-601",
-    "torre": 20,
+    "torre": "20",
     "apto": "601",
     "nombreCompleto": "Torre 20 - Apto 601",
     "area": 53.14,
@@ -4651,7 +4361,7 @@
   },
   {
     "id": "20-602",
-    "torre": 20,
+    "torre": "20",
     "apto": "602",
     "nombreCompleto": "Torre 20 - Apto 602",
     "area": 53.14,
@@ -4661,7 +4371,7 @@
   },
   {
     "id": "20-603",
-    "torre": 20,
+    "torre": "20",
     "apto": "603",
     "nombreCompleto": "Torre 20 - Apto 603",
     "area": 53.33,
@@ -4671,12 +4381,22 @@
   },
   {
     "id": "20-604",
-    "torre": 20,
+    "torre": "20",
     "apto": "604",
     "nombreCompleto": "Torre 20 - Apto 604",
     "area": 53.33,
     "coeficiente": 0.2202,
     "pin": "9893",
     "token": "96f2fa20f5"
+  },
+  {
+    "id": "AR-Construcciones",
+    "torre": "AR Construcciones",
+    "apto": "AR Construcciones",
+    "nombreCompleto": "AR Construcciones",
+    "area": 1473.19,
+    "coeficiente": 6.0836,
+    "pin": "6342",
+    "token": "cd3698f85f"
   }
 ]

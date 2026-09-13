@@ -97,6 +97,10 @@ console.log('✔ Bloqueo de votos tras cierre de pregunta verificado.');
 // 10. Validar Generación de Reporte Excel
 const excelBuffer = generarReporteExcel(store);
 assert.ok(excelBuffer.length > 1000, 'El archivo Excel de auditoría debe generarse');
-console.log(`✔ Reporte Excel generado exitosamente (${excelBuffer.length} bytes).`);
+// Cleanup test state
+store.state.preguntas = [];
+store.state.preguntaActivaId = null;
+store.state.asistencia = {};
+store.flushSaveSync();
 
 console.log('\n--- TODAS LAS PRUEBAS PASARON EXITOSAMENTE (10/10) ---');
